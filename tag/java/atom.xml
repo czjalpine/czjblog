@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>失心耀的博客 • Posts by &#34;java&#34; tag</title>
+    <link href="http://example.com" />
+    <updated>2021-05-10T00:39:18.000Z</updated>
+    <category term="Hexo" />
+    <category term="Java" />
+    <category term="Springboot" />
+    <category term="Git" />
+    <category term="Nginx" />
+    <category term="linux" />
+    <category term="RabbitMQ" />
+    <category term="Redis" />
+    <entry>
+        <id>http://example.com/Java%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</id>
+        <title>Java安装过程</title>
+        <link rel="alternate" href="http://example.com/Java%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/"/>
+        <content type="html">&lt;h2 id=&#34;java安装过程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#java安装过程&#34;&gt;#&lt;/a&gt; Java 安装过程&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;前提&lt;/strong&gt;：jdk 的安装包&lt;/p&gt;
+&lt;h3 id=&#34;操作流程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#操作流程&#34;&gt;#&lt;/a&gt; 操作流程：&lt;/h3&gt;
+&lt;h4 id=&#34;安装&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#安装&#34;&gt;#&lt;/a&gt; &lt;strong&gt;安装：&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;无脑下一步（因为会安装 jdk 和 jre，所以建议安装的时候新建一个 JAVA 文件夹先）&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;设置环境变量&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#设置环境变量&#34;&gt;#&lt;/a&gt; 设置环境变量：&lt;/h4&gt;
+&lt;p&gt;按 [win]——&amp;gt; 输入 [环境变量]——&amp;gt; 进行编辑 ——&amp;gt; 在全局变量中新建一个 &lt;code&gt;JAVA_HOME&lt;/code&gt;  并设置变量 ——&amp;gt; 编辑全局变量中的 &lt;code&gt;Path&lt;/code&gt;  并新增一下变量&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JAVA_HOME：java 安装的目录&lt;/li&gt;
+&lt;li&gt;PATH ：
+&lt;ul&gt;
+&lt;li&gt;%JAVA_HOME%\bin&lt;/li&gt;
+&lt;li&gt;%JAVA_HOME%\jre\bin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;完成后请务必按 &lt;strong&gt;[确认]&lt;/strong&gt; 进行退出，否则不会保存&lt;/p&gt;
+&lt;h4 id=&#34;测试&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#测试&#34;&gt;#&lt;/a&gt; 测试&lt;/h4&gt;
+&lt;p&gt;按 &lt;strong&gt;[win]&lt;/strong&gt; +  &lt;code&gt;r&lt;/code&gt;  输入 &lt;code&gt;cmd&lt;/code&gt;  ——&amp;gt; 输入 &lt;code&gt;java&lt;/code&gt; 、 &lt;code&gt;javac&lt;/code&gt; 、 &lt;code&gt;java -version&lt;/code&gt;  进行判断是否设置变量成功（失败请确认变量是否编辑成功）&lt;/p&gt;
+</content>
+        <category term="Java" />
+        <updated>2021-05-10T00:39:18.000Z</updated>
+    </entry>
+</feed>
