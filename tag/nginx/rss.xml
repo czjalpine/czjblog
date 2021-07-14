@@ -5,22 +5,26 @@
         <link>http://example.com</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Thu, 13 May 2021 16:30:03 +0800</pubDate>
-        <lastBuildDate>Thu, 13 May 2021 16:30:03 +0800</lastBuildDate>
+        <pubDate>Fri, 02 Apr 2021 16:30:03 +0800</pubDate>
+        <lastBuildDate>Fri, 02 Apr 2021 16:30:03 +0800</lastBuildDate>
+        <category>ElasticSearch</category>
         <category>Hexo</category>
         <category>Java</category>
+        <category>SpringCloud</category>
         <category>Springboot</category>
+        <category>驾照</category>
         <category>Git</category>
         <category>Nginx</category>
         <category>linux</category>
         <category>RabbitMQ</category>
+        <category>SpringBoot</category>
         <category>Redis</category>
         <item>
             <guid isPermalink="true">http://example.com/nginx/</guid>
             <title>Nginx初步学习</title>
             <link>http://example.com/nginx/</link>
             <category>Nginx</category>
-            <pubDate>Thu, 13 May 2021 16:30:03 +0800</pubDate>
+            <pubDate>Fri, 02 Apr 2021 16:30:03 +0800</pubDate>
             <description><![CDATA[ &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;h1 id=&#34;nginx&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#nginx&#34;&gt;#&lt;/a&gt; nginx&lt;/h1&gt;
 &lt;p&gt;推荐视频：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXpKNDExdzdTVj9wPTE=&#34;&gt;尚硅谷 Nginx&lt;/span&gt;&lt;/p&gt;

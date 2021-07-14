@@ -5,22 +5,26 @@
         <link>http://example.com</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Mon, 10 May 2021 08:39:18 +0800</pubDate>
-        <lastBuildDate>Mon, 10 May 2021 08:39:18 +0800</lastBuildDate>
+        <pubDate>Mon, 01 Mar 2021 08:40:00 +0800</pubDate>
+        <lastBuildDate>Mon, 01 Mar 2021 08:40:00 +0800</lastBuildDate>
+        <category>ElasticSearch</category>
         <category>Hexo</category>
         <category>Java</category>
+        <category>SpringCloud</category>
         <category>Springboot</category>
+        <category>驾照</category>
         <category>Git</category>
         <category>Nginx</category>
         <category>linux</category>
         <category>RabbitMQ</category>
+        <category>SpringBoot</category>
         <category>Redis</category>
         <item>
             <guid isPermalink="true">http://example.com/Java%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</guid>
             <title>Java安装过程</title>
             <link>http://example.com/Java%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</link>
             <category>Java</category>
-            <pubDate>Mon, 10 May 2021 08:39:18 +0800</pubDate>
+            <pubDate>Mon, 01 Mar 2021 08:40:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;java安装过程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#java安装过程&#34;&gt;#&lt;/a&gt; Java 安装过程&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;前提&lt;/strong&gt;：jdk 的安装包&lt;/p&gt;
 &lt;h3 id=&#34;操作流程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#操作流程&#34;&gt;#&lt;/a&gt; 操作流程：&lt;/h3&gt;

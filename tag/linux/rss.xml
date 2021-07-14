@@ -5,22 +5,26 @@
         <link>http://example.com</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Thu, 13 May 2021 16:30:03 +0800</pubDate>
-        <lastBuildDate>Thu, 13 May 2021 16:30:03 +0800</lastBuildDate>
+        <pubDate>Thu, 01 Apr 2021 16:30:03 +0800</pubDate>
+        <lastBuildDate>Thu, 01 Apr 2021 16:30:03 +0800</lastBuildDate>
+        <category>ElasticSearch</category>
         <category>Hexo</category>
         <category>Java</category>
+        <category>SpringCloud</category>
         <category>Springboot</category>
+        <category>驾照</category>
         <category>Git</category>
         <category>Nginx</category>
         <category>linux</category>
         <category>RabbitMQ</category>
+        <category>SpringBoot</category>
         <category>Redis</category>
         <item>
             <guid isPermalink="true">http://example.com/Linux/</guid>
             <title>Linux初步学习</title>
             <link>http://example.com/Linux/</link>
             <category>linux</category>
-            <pubDate>Thu, 13 May 2021 16:30:03 +0800</pubDate>
+            <pubDate>Thu, 01 Apr 2021 16:30:03 +0800</pubDate>
             <description><![CDATA[ &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;h1 id=&#34;linux学习日志&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#linux学习日志&#34;&gt;#&lt;/a&gt; Linux 学习日志&lt;/h1&gt;
 &lt;h2 id=&#34;学习相关资料和技术文档&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#学习相关资料和技术文档&#34;&gt;#&lt;/a&gt; 学习相关资料和技术文档&lt;/h2&gt;

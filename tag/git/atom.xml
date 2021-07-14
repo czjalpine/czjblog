@@ -3,14 +3,18 @@
     <id>http://example.com</id>
     <title>失心耀的博客 • Posts by &#34;git&#34; tag</title>
     <link href="http://example.com" />
-    <updated>2021-05-17T02:59:22.000Z</updated>
+    <updated>2021-04-01T00:40:00.000Z</updated>
+    <category term="ElasticSearch" />
     <category term="Hexo" />
     <category term="Java" />
+    <category term="SpringCloud" />
     <category term="Springboot" />
+    <category term="驾照" />
     <category term="Git" />
     <category term="Nginx" />
     <category term="linux" />
     <category term="RabbitMQ" />
+    <category term="SpringBoot" />
     <category term="Redis" />
     <entry>
         <id>http://example.com/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</id>
@@ -304,6 +308,6 @@ Body 部分的格式是固定的，必须写成 This reverts commit &lt;hash&gt;
 &lt;p&gt;本章节介绍了 &lt;em&gt;git&lt;/em&gt; 的一些常用命令的操作与基本概念，与基于此的 &lt;em&gt;git&lt;/em&gt; 合作流程与 &lt;em&gt;commit&lt;/em&gt; 规范。对于 &lt;em&gt;git&lt;/em&gt; 的使用，笔者建议多加练习，不能只 &amp;quot;纸上谈兵&amp;quot;, 实际操作才能加深对于 &lt;em&gt;git&lt;/em&gt; 的理解，而 &lt;em&gt;git&lt;/em&gt; 合作流程与 &lt;em&gt;commit&lt;/em&gt; 规范提供了参考。&lt;/p&gt;
 </content>
         <category term="Git" />
-        <updated>2021-05-17T02:59:22.000Z</updated>
+        <updated>2021-04-01T00:40:00.000Z</updated>
     </entry>
 </feed>

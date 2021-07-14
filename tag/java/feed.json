@@ -8,7 +8,7 @@
             "id": "http://example.com/Java%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/",
             "url": "http://example.com/Java%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/",
             "title": "Java安装过程",
-            "date_published": "2021-05-10T00:39:18.000Z",
+            "date_published": "2021-03-01T00:40:00.000Z",
             "content_html": "<h2 id=\"java安装过程\"><a class=\"markdownIt-Anchor\" href=\"#java安装过程\">#</a> Java 安装过程</h2>\n<p><strong>前提</strong>：jdk 的安装包</p>\n<h3 id=\"操作流程\"><a class=\"markdownIt-Anchor\" href=\"#操作流程\">#</a> 操作流程：</h3>\n<h4 id=\"安装\"><a class=\"markdownIt-Anchor\" href=\"#安装\">#</a> <strong>安装：</strong></h4>\n<p><strong>无脑下一步（因为会安装 jdk 和 jre，所以建议安装的时候新建一个 JAVA 文件夹先）</strong></p>\n<h4 id=\"设置环境变量\"><a class=\"markdownIt-Anchor\" href=\"#设置环境变量\">#</a> 设置环境变量：</h4>\n<p>按 [win]——&gt; 输入 [环境变量]——&gt; 进行编辑 ——&gt; 在全局变量中新建一个 <code>JAVA_HOME</code>  并设置变量 ——&gt; 编辑全局变量中的 <code>Path</code>  并新增一下变量</p>\n<ul>\n<li>JAVA_HOME：java 安装的目录</li>\n<li>PATH ：\n<ul>\n<li>%JAVA_HOME%\\bin</li>\n<li>%JAVA_HOME%\\jre\\bin</li>\n</ul>\n</li>\n</ul>\n<p>完成后请务必按 <strong>[确认]</strong> 进行退出，否则不会保存</p>\n<h4 id=\"测试\"><a class=\"markdownIt-Anchor\" href=\"#测试\">#</a> 测试</h4>\n<p>按 <strong>[win]</strong> +  <code>r</code>  输入 <code>cmd</code>  ——&gt; 输入 <code>java</code> 、 <code>javac</code> 、 <code>java -version</code>  进行判断是否设置变量成功（失败请确认变量是否编辑成功）</p>\n",
             "tags": [
                 "Java"

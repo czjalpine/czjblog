@@ -5,22 +5,26 @@
         <link>http://example.com</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Mon, 10 May 2021 08:39:18 +0800</pubDate>
-        <lastBuildDate>Mon, 10 May 2021 08:39:18 +0800</lastBuildDate>
+        <pubDate>Mon, 01 Mar 2021 08:40:00 +0800</pubDate>
+        <lastBuildDate>Mon, 01 Mar 2021 08:40:00 +0800</lastBuildDate>
+        <category>ElasticSearch</category>
         <category>Hexo</category>
         <category>Java</category>
+        <category>SpringCloud</category>
         <category>Springboot</category>
+        <category>驾照</category>
         <category>Git</category>
         <category>Nginx</category>
         <category>linux</category>
         <category>RabbitMQ</category>
+        <category>SpringBoot</category>
         <category>Redis</category>
         <item>
             <guid isPermalink="true">http://example.com/Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</guid>
             <title>Hexo安装过程</title>
             <link>http://example.com/Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</link>
             <category>Hexo</category>
-            <pubDate>Mon, 10 May 2021 08:39:18 +0800</pubDate>
+            <pubDate>Mon, 01 Mar 2021 08:40:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;搭建hexo&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#搭建hexo&#34;&gt;#&lt;/a&gt; 搭建 Hexo&lt;/h2&gt;
 &lt;h3 id=&#34;前提提要&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#前提提要&#34;&gt;#&lt;/a&gt; 前提提要&lt;/h3&gt;
 &lt;p&gt;首先需要一下软件&lt;/p&gt;

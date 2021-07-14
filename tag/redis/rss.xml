@@ -7,13 +7,17 @@
         <language>zh-CN</language>
         <pubDate>Thu, 13 May 2021 16:30:03 +0800</pubDate>
         <lastBuildDate>Thu, 13 May 2021 16:30:03 +0800</lastBuildDate>
+        <category>ElasticSearch</category>
         <category>Hexo</category>
         <category>Java</category>
+        <category>SpringCloud</category>
         <category>Springboot</category>
+        <category>驾照</category>
         <category>Git</category>
         <category>Nginx</category>
         <category>linux</category>
         <category>RabbitMQ</category>
+        <category>SpringBoot</category>
         <category>Redis</category>
         <item>
             <guid isPermalink="true">http://example.com/redis/</guid>

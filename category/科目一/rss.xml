@@ -1,0 +1,370 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>失心耀的博客 • Posts by &#34;科目一&#34; category</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Wed, 14 Jul 2021 13:22:00 +0800</pubDate>
+        <lastBuildDate>Wed, 14 Jul 2021 13:22:00 +0800</lastBuildDate>
+        <category>ElasticSearch</category>
+        <category>Hexo</category>
+        <category>Java</category>
+        <category>SpringCloud</category>
+        <category>Springboot</category>
+        <category>驾照</category>
+        <category>Git</category>
+        <category>Nginx</category>
+        <category>linux</category>
+        <category>RabbitMQ</category>
+        <category>SpringBoot</category>
+        <category>Redis</category>
+        <item>
+            <guid isPermalink="true">http://example.com/%E7%A7%91%E7%9B%AE%E4%B8%80%E7%AC%94%E8%AE%B0/</guid>
+            <title>科目一笔记</title>
+            <link>http://example.com/%E7%A7%91%E7%9B%AE%E4%B8%80%E7%AC%94%E8%AE%B0/</link>
+            <category>驾照</category>
+            <pubDate>Wed, 14 Jul 2021 13:22:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;科目一笔记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#科目一笔记&#34;&gt;#&lt;/a&gt; 科目一笔记&lt;/h2&gt;
+&lt;h3 id=&#34;1法律-法规及道路交通信号&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1法律-法规及道路交通信号&#34;&gt;#&lt;/a&gt; 1. 法律、法规及道路交通信号&lt;/h3&gt;
+&lt;h4 id=&#34;11-许可-种类-有效期和申请条件&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#11-许可-种类-有效期和申请条件&#34;&gt;#&lt;/a&gt; 1.1、许可、种类、有效期和申请条件&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;机动车驾驶许可&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;驾驶证存在九种类型，分别是 A、B、C、D、E、F、M、N（有轨电车）、P（无轨电车）九种。&lt;/li&gt;
+&lt;li&gt;除外 N、P 可分成&lt;strong&gt;方向盘式&lt;/strong&gt;（A、B、C、M）和&lt;strong&gt;方向把式&lt;/strong&gt;（D、E、F）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;机动车驾驶证种类、准假车型&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;初次申请不得报 A1，A2、B1&lt;/li&gt;
+&lt;li&gt;&lt;img data-src=&#34;%E7%A7%91%E7%9B%AE%E4%B8%80%E7%AC%94%E8%AE%B0/image-20210714133622486.png&#34; alt=&#34;image-20210714133622486&#34;&gt;&lt;img data-src=&#34;/%E7%A7%91%E7%9B%AE%E4%B8%80%E7%AC%94%E8%AE%B0/image-20210714133622486.png&#34; class=&#34;&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;驾驶证有效期（重点）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;有效期分为 6 年、10 年和长期&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;驾驶证的申请条件（重点）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;存在影响驾驶的 &lt;code&gt;疾病&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;三年内 &lt;code&gt;吸食、注射毒品&lt;/code&gt; 行为或者接触强制隔离戒毒措施未满三年、或者长期服用依赖性精神药品成瘾尚未戒除的&lt;/li&gt;
+&lt;li&gt;造成 &lt;code&gt;交通事务后逃逸&lt;/code&gt; 构成犯罪的&lt;/li&gt;
+&lt;li&gt;饮酒后或者 &lt;code&gt;醉酒驾驶&lt;/code&gt; 机动车发生重大交通事故构成犯罪的&lt;/li&gt;
+&lt;li&gt;醉酒驾驶营运机动车依法被吊销机动车驾驶证未满十年的&lt;/li&gt;
+&lt;li&gt;因其他清醒依法被吊销机动车驾驶证未满二年的&lt;/li&gt;
+&lt;li&gt;驾驶许可依法被撤销未满三年的&lt;/li&gt;
+&lt;li&gt;法律行政法规定的其他情形&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;申请时需要体检&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;C1、C2 的视力要求为 4.9 以上&lt;/li&gt;
+&lt;li&gt;无红绿色盲&lt;/li&gt;
+&lt;li&gt;两耳分别距音叉 50 厘米能辨别声源的方向&lt;/li&gt;
+&lt;li&gt;双手健全&lt;/li&gt;
+&lt;li&gt;下肢健全&lt;/li&gt;
+&lt;li&gt;年龄满 18 岁以上即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;12-驾驶证申领与考试&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#12-驾驶证申领与考试&#34;&gt;#&lt;/a&gt; 1.2、驾驶证申领与考试&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;驾驶员考试内容和合格标准
+&lt;ol&gt;
+&lt;li&gt;内容
+&lt;ul&gt;
+&lt;li&gt;科目一（机考）90 分&lt;/li&gt;
+&lt;li&gt;科目二（实操）80 分
+&lt;ul&gt;
+&lt;li&gt;倒车入库&lt;/li&gt;
+&lt;li&gt;坡道定点停车和起步&lt;/li&gt;
+&lt;li&gt;侧方停车&lt;/li&gt;
+&lt;li&gt;曲线行驶&lt;/li&gt;
+&lt;li&gt;直角转弯&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;科目三（实操）90 分&lt;/li&gt;
+&lt;li&gt;科目四（机考）90 分&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;学习驾驶证明使用规定和考试预约要求
+&lt;ul&gt;
+&lt;li&gt;申请人已欺骗、贿赂等
+&lt;ul&gt;
+&lt;li&gt;撤销驾驶许可、三年内部的再次申领驾驶证&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;伪造、变造或使用伪造的驾驶证
+&lt;ul&gt;
+&lt;li&gt;处 2000 以上 5000 以下罚款，构成犯罪的，依法追究刑事责任&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;13-驾驶证的使用与管理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#13-驾驶证的使用与管理&#34;&gt;#&lt;/a&gt; 1.3、驾驶证的使用与管理&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;机动车驾驶证实习期
+&lt;ul&gt;
+&lt;li&gt;有 12 个月实习期，实习期间需要在车后贴或者悬挂统一式样的实习标志&lt;/li&gt;
+&lt;li&gt;实习期不得上高速，或者有三年以上的老师傅带着&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;有效期满、转入、变更换证
+&lt;ul&gt;
+&lt;li&gt;有效期：6 年、10 年、永久&lt;/li&gt;
+&lt;li&gt;有效期过了还有 90 天的换证申请期，超过驾驶证有效期一年以上将会注销&lt;/li&gt;
+&lt;li&gt;迁户口，应当向迁入地车辆管理所申请换证&lt;/li&gt;
+&lt;li&gt;居住，向居住地车辆管理所申请换证&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;驾驶证意识补证
+&lt;ol&gt;
+&lt;li&gt;驾驶证遗失的，向机动车驾驶证核发地的车辆管理所申请补发。之前的驾驶证作废&lt;/li&gt;
+&lt;li&gt;驾驶证被依法扣留、扣押、暂扣期间不可补发&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;14-道路交通安全违法行为及积分分值&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#14-道路交通安全违法行为及积分分值&#34;&gt;#&lt;/a&gt; 1.4、道路交通安全违法行为及积分分值&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;道路交通安全违法行为积分规则及分类&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一个周期 12 个月，一共 12 分&lt;/li&gt;
+&lt;li&gt;扣分分值：12 分、6 分、3 分、2 分、1 分&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;各种道路交通安全违法行为的积分分值&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;十二分
+&lt;ol&gt;
+&lt;li&gt;驾驶与准假车型不符的机动车&lt;/li&gt;
+&lt;li&gt;饮酒后驾车&lt;/li&gt;
+&lt;li&gt;驾驶营运客车，超载 20%&lt;/li&gt;
+&lt;li&gt;造成交通事故后逃逸，尚不构成犯罪&lt;/li&gt;
+&lt;li&gt;上道路的机动车未悬挂车牌号、或者故意遮挡、无损、不安规定安装机动车号牌的&lt;/li&gt;
+&lt;li&gt;使用伪造、变造的车牌号、行驶证、驾驶证、校车标牌或者使用其他机动车号牌的行驶证&lt;/li&gt;
+&lt;li&gt;机动车在高速公路上倒车、逆行、穿越中央分隔带掉头的&lt;/li&gt;
+&lt;li&gt;驾驶中型以上的载客载货汽车、小车、危险物品运输车辆超速 20%、在高速公路、城市快速路意外的道路上超速 50%、驾驶其他机动车实行超速 50% 的&lt;/li&gt;
+&lt;li&gt;连续驾车 4 小时未休息 20 分钟的&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;六分
+&lt;ol&gt;
+&lt;li&gt;机动车驾驶证被暂扣期间驾驶机动车&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;闯红灯&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;驾驶营运客车（不包括公交汽车）、载客汽车载人超过核定人数未达 20%&lt;/li&gt;
+&lt;li&gt;驾驶中型以上的载客载货汽车、校车、危险武平运输车车辆在高速公路、城市快速路上行驶超速，但没有超过 20% 的&lt;/li&gt;
+&lt;li&gt;超速 20% 以上未达到 50%&lt;/li&gt;
+&lt;li&gt;载物货车超载 30%&lt;/li&gt;
+&lt;li&gt;在高速公路上停车&lt;/li&gt;
+&lt;li&gt;违法占用应急车道&lt;/li&gt;
+&lt;li&gt;低能见度情况下，在高速公路上不按照规定驾驶的&lt;/li&gt;
+&lt;li&gt;驾驶机动车运载超限的不可解体的武平，为按指定的时间、路线、速度、行驶或者为悬挂明显标志的&lt;/li&gt;
+&lt;li&gt;载运易燃易爆物品等未按照指定时间、路线、速度行驶或者未悬挂警示标志并采取必要的安全措施的&lt;/li&gt;
+&lt;li&gt;连续驾驶 4 小时未停车休息或休息小于 20 分钟&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不按照规定避让校车&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;三分
+&lt;ul&gt;
+&lt;li&gt;驾驶机动车经过人行道不按规定减速、停车、避让行人的&lt;/li&gt;
+&lt;li&gt;在道路上车辆发生故障未按规定使用灯光和设置警告标志&lt;/li&gt;
+&lt;li&gt;上道路的机动车未按照规定进行安全技术检验的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;违法记分清楚处理要求&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;满 12 分需要重新考科目一&lt;/li&gt;
+&lt;li&gt;未满 12 分的需要缴纳罚款&lt;/li&gt;
+&lt;li&gt;未满 12 分且不缴纳罚款，扣的分值将继承到下一周期&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;15-交通信号灯的分类-含义-识别和作用&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#15-交通信号灯的分类-含义-识别和作用&#34;&gt;#&lt;/a&gt; 1.5、交通信号灯的分类、含义、识别和作用&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;机动车信号灯和非机动车信号灯
+&lt;ul&gt;
+&lt;li&gt;机动车信号灯分为圆饼灯和方向灯
+&lt;ul&gt;
+&lt;li&gt;圆饼灯只管向前，不管左右&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;闪光警告信号灯
+&lt;ul&gt;
+&lt;li&gt;提示车辆、行人通行时注意瞭望，确认安全后通过&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;方向指向信号灯&lt;/li&gt;
+&lt;li&gt;车道信号灯
+&lt;ul&gt;
+&lt;li&gt;一般设置在车道上方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;铁道平交道口信号灯
+&lt;ul&gt;
+&lt;li&gt;两个红灯交替闪烁或一个红灯亮，表示禁止车辆、行人通行&lt;/li&gt;
+&lt;li&gt;红灯熄灭，方可允许通行&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;人行横道信号灯&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;16-交警手势信号的分类-含义-识别和作用&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#16-交警手势信号的分类-含义-识别和作用&#34;&gt;#&lt;/a&gt; 1.6、交警手势信号的分类、含义、识别和作用&lt;/h4&gt;
+&lt;p&gt;等级划分：交警 ——&amp;gt; 信号灯&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;单手信号
+&lt;ul&gt;
+&lt;li&gt;停止&lt;/li&gt;
+&lt;li&gt;左转弯&lt;/li&gt;
+&lt;li&gt;减速&lt;/li&gt;
+&lt;li&gt;变道&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;双手信号
+&lt;ul&gt;
+&lt;li&gt;左转弯&lt;/li&gt;
+&lt;li&gt;右转弯&lt;/li&gt;
+&lt;li&gt;靠边停车&lt;/li&gt;
+&lt;li&gt;直行&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;17-交通标识的分类-含义-识别和作用&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#17-交通标识的分类-含义-识别和作用&#34;&gt;#&lt;/a&gt; 1.7、交通标识的分类、含义、识别和作用&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;警告标志&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;黄色&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;禁令标志&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;红色&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;指示标志&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;蓝色&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;高速、城市指路标志&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;绿色&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;旅游区标志&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;棕色&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;其他类型标志&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一般都很小的矩形、白色&lt;/li&gt;
+&lt;li&gt;辅助、告示、作业区 标志&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;交通标线&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;指示标线
+&lt;ul&gt;
+&lt;li&gt;白色线条、黄色虚线、白色虚线&lt;/li&gt;
+&lt;li&gt;双黄线、单虚单实、双白虚线、三白虚线&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;禁止标线
+&lt;ul&gt;
+&lt;li&gt;黄色实线、白色实线&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;警告标线&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;18-道路通行规则内容概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#18-道路通行规则内容概述&#34;&gt;#&lt;/a&gt; 1.8、道路通行规则内容概述&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;机动车靠右侧通行&lt;/li&gt;
+&lt;li&gt;有划分车道和无划分车道
+&lt;ul&gt;
+&lt;li&gt;无划分车道，应该在道路中间行驶&lt;/li&gt;
+&lt;li&gt;有划分车道
+&lt;ol&gt;
+&lt;li&gt;当存在两条同方向车道时，左侧为快速车道，右侧为慢速车道&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;按交通信号通行
+&lt;ul&gt;
+&lt;li&gt;直行 ——&amp;gt; 左转 ——&amp;gt; 右转&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;灯光和喇叭的使用
+&lt;ul&gt;
+&lt;li&gt;转向灯&lt;/li&gt;
+&lt;li&gt;前照灯，夜间照明&lt;/li&gt;
+&lt;li&gt;制动灯&lt;/li&gt;
+&lt;li&gt;倒车指示灯&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;能见度低时（不得使用远光灯）
+&lt;ul&gt;
+&lt;li&gt;雨、雪、沙尘、冰雹：使用前照灯、示廓灯、后位灯&lt;/li&gt;
+&lt;li&gt;雾天：使用雾灯、危险报警闪光灯、前照灯、示廓灯、后位灯&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;夜间行车
+&lt;ul&gt;
+&lt;li&gt;在没有中心线时，150 内不能使用远光灯&lt;/li&gt;
+&lt;li&gt;窄桥等地不得使用远光灯&lt;/li&gt;
+&lt;li&gt;夜间没有路灯、照明不良或者遇到雾、雨、雪、沙尘等能见度低的情况下行驶时，与前车近距离不可使用远光灯&lt;/li&gt;
+&lt;li&gt;通过急弯或没有信号灯控制的路口时，应交替使用远近光灯示意&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;19-道路通行基本规则&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#19-道路通行基本规则&#34;&gt;#&lt;/a&gt; 1.9、道路通行基本规则&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;保持车距
+&lt;ul&gt;
+&lt;li&gt;100km/h 需要保持 40 米车距&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;110-特殊路况与路段通行&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#110-特殊路况与路段通行&#34;&gt;#&lt;/a&gt; 1.10、特殊路况与路段通行&lt;/h4&gt;
+&lt;h4 id=&#34;111-避让行人与特殊车辆&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#111-避让行人与特殊车辆&#34;&gt;#&lt;/a&gt; 1.11、避让行人与特殊车辆&lt;/h4&gt;
+&lt;h4 id=&#34;112-机动车载人载物及停车规定&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#112-机动车载人载物及停车规定&#34;&gt;#&lt;/a&gt; 1.12、机动车载人载物及停车规定&lt;/h4&gt;
+&lt;h4 id=&#34;113-机动车牵引挂车规定及故障处理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#113-机动车牵引挂车规定及故障处理&#34;&gt;#&lt;/a&gt; 1.13、机动车牵引挂车规定及故障处理&lt;/h4&gt;
+&lt;h4 id=&#34;114-高速公路通信规则&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#114-高速公路通信规则&#34;&gt;#&lt;/a&gt; 1.14、高速公路通信规则&lt;/h4&gt;
+&lt;h4 id=&#34;115-道路通行规则综合模拟及实际应用&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#115-道路通行规则综合模拟及实际应用&#34;&gt;#&lt;/a&gt; 1.15、道路通行规则综合模拟及实际应用&lt;/h4&gt;
+&lt;h4 id=&#34;116-驾驶机动车禁止行为&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#116-驾驶机动车禁止行为&#34;&gt;#&lt;/a&gt; 1.16、驾驶机动车禁止行为&lt;/h4&gt;
+&lt;h4 id=&#34;117-行政强制措施&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#117-行政强制措施&#34;&gt;#&lt;/a&gt; 1.17、行政强制措施&lt;/h4&gt;
+&lt;h4 id=&#34;118-违法处罚种类及违规处罚&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#118-违法处罚种类及违规处罚&#34;&gt;#&lt;/a&gt; 1.18、违法处罚种类及违规处罚&lt;/h4&gt;
+&lt;h4 id=&#34;119-机动车登记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#119-机动车登记&#34;&gt;#&lt;/a&gt; 1.19、机动车登记&lt;/h4&gt;
+&lt;h4 id=&#34;120-机动车号牌的申领和使用&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#120-机动车号牌的申领和使用&#34;&gt;#&lt;/a&gt; 1.20、机动车号牌的申领和使用&lt;/h4&gt;
+&lt;h4 id=&#34;121-机动车安全技术检验&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#121-机动车安全技术检验&#34;&gt;#&lt;/a&gt; 1.21、机动车安全技术检验&lt;/h4&gt;
+&lt;h4 id=&#34;122-机动车强制报废&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#122-机动车强制报废&#34;&gt;#&lt;/a&gt; 1.22、机动车强制报废&lt;/h4&gt;
+&lt;h4 id=&#34;123-交通事故现场&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#123-交通事故现场&#34;&gt;#&lt;/a&gt; 1.23、交通事故现场&lt;/h4&gt;
+&lt;h3 id=&#34;2机动车基本知识&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2机动车基本知识&#34;&gt;#&lt;/a&gt; 2. 机动车基本知识&lt;/h3&gt;
+&lt;h3 id=&#34;3综合复习及考核&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#3综合复习及考核&#34;&gt;#&lt;/a&gt; 3. 综合复习及考核&lt;/h3&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

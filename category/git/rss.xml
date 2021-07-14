@@ -5,22 +5,26 @@
         <link>http://example.com</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Mon, 17 May 2021 10:59:22 +0800</pubDate>
-        <lastBuildDate>Mon, 17 May 2021 10:59:22 +0800</lastBuildDate>
+        <pubDate>Thu, 01 Apr 2021 08:40:00 +0800</pubDate>
+        <lastBuildDate>Thu, 01 Apr 2021 08:40:00 +0800</lastBuildDate>
+        <category>ElasticSearch</category>
         <category>Hexo</category>
         <category>Java</category>
+        <category>SpringCloud</category>
         <category>Springboot</category>
+        <category>驾照</category>
         <category>Git</category>
         <category>Nginx</category>
         <category>linux</category>
         <category>RabbitMQ</category>
+        <category>SpringBoot</category>
         <category>Redis</category>
         <item>
             <guid isPermalink="true">http://example.com/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</guid>
             <title>Git协同与提交规范</title>
             <link>http://example.com/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</link>
             <category>Git</category>
-            <pubDate>Mon, 17 May 2021 10:59:22 +0800</pubDate>
+            <pubDate>Thu, 01 Apr 2021 08:40:00 +0800</pubDate>
             <description><![CDATA[ &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;h2 id=&#34;1前言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1前言&#34;&gt;#&lt;/a&gt; 1. 前言&lt;/h2&gt;
 &lt;p&gt;在现代化的软件开发中，尤其是在企业中的团队协同开发流程与代码管理方面，git 都充当着不可或缺的角色。本章中将会讲述如何使用 git 来进行一些基本的版本控制操作与团队协同中的 git 使用流程管理与提交规范。&lt;/p&gt;

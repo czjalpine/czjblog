@@ -3,14 +3,18 @@
     <id>http://example.com</id>
     <title>失心耀的博客 • Posts by &#34;linux&#34; category</title>
     <link href="http://example.com" />
-    <updated>2021-05-13T08:30:03.000Z</updated>
+    <updated>2021-04-01T08:30:03.000Z</updated>
+    <category term="ElasticSearch" />
     <category term="Hexo" />
     <category term="Java" />
+    <category term="SpringCloud" />
     <category term="Springboot" />
+    <category term="驾照" />
     <category term="Git" />
     <category term="Nginx" />
     <category term="linux" />
     <category term="RabbitMQ" />
+    <category term="SpringBoot" />
     <category term="Redis" />
     <entry>
         <id>http://example.com/Linux/</id>
@@ -883,6 +887,6 @@ export PATH CLASSPATH JAVA_HOME
 &lt;p&gt;命令：su  然后输入密码&lt;/p&gt;
 </content>
         <category term="linux" />
-        <updated>2021-05-13T08:30:03.000Z</updated>
+        <updated>2021-04-01T08:30:03.000Z</updated>
     </entry>
 </feed>

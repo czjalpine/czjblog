@@ -5,22 +5,26 @@
         <link>http://example.com</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Sun, 13 Jun 2021 11:38:04 +0800</pubDate>
-        <lastBuildDate>Sun, 13 Jun 2021 11:38:04 +0800</lastBuildDate>
+        <pubDate>Mon, 10 May 2021 11:38:04 +0800</pubDate>
+        <lastBuildDate>Mon, 10 May 2021 11:38:04 +0800</lastBuildDate>
+        <category>ElasticSearch</category>
         <category>Hexo</category>
         <category>Java</category>
+        <category>SpringCloud</category>
         <category>Springboot</category>
+        <category>驾照</category>
         <category>Git</category>
         <category>Nginx</category>
         <category>linux</category>
         <category>RabbitMQ</category>
+        <category>SpringBoot</category>
         <category>Redis</category>
         <item>
             <guid isPermalink="true">http://example.com/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</guid>
             <title>RabbitMQ 高级特性</title>
             <link>http://example.com/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</link>
             <category>RabbitMQ</category>
-            <pubDate>Sun, 13 Jun 2021 11:38:04 +0800</pubDate>
+            <pubDate>Mon, 10 May 2021 11:38:04 +0800</pubDate>
             <description><![CDATA[ &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;h1 id=&#34;1-rabbitmq高级-过期时间ttl&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-rabbitmq高级-过期时间ttl&#34;&gt;#&lt;/a&gt; 1. RabbitMQ 高级 - 过期时间 TTL&lt;/h1&gt;
 &lt;h2 id=&#34;11-概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#11-概述&#34;&gt;#&lt;/a&gt; 1.1 概述&lt;/h2&gt;

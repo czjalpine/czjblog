@@ -3,14 +3,18 @@
     <id>http://example.com</id>
     <title>失心耀的博客 • Posts by &#34;rabbitmq&#34; tag</title>
     <link href="http://example.com" />
-    <updated>2021-06-13T03:38:04.000Z</updated>
+    <updated>2021-05-10T03:38:04.000Z</updated>
+    <category term="ElasticSearch" />
     <category term="Hexo" />
     <category term="Java" />
+    <category term="SpringCloud" />
     <category term="Springboot" />
+    <category term="驾照" />
     <category term="Git" />
     <category term="Nginx" />
     <category term="linux" />
     <category term="RabbitMQ" />
+    <category term="SpringBoot" />
     <category term="Redis" />
     <entry>
         <id>http://example.com/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</id>
@@ -321,7 +325,7 @@
 &lt;p&gt;&lt;img data-src=&#34;RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/867.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/867.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 </content>
         <category term="RabbitMQ" />
-        <updated>2021-06-13T03:38:04.000Z</updated>
+        <updated>2021-05-10T03:38:04.000Z</updated>
     </entry>
     <entry>
         <id>http://example.com/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/</id>

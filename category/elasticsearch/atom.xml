@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>失心耀的博客 • Posts by &#34;elasticsearch&#34; category</title>
+    <link href="http://example.com" />
+    <updated>2021-06-22T11:10:00.000Z</updated>
+    <category term="ElasticSearch" />
+    <category term="Hexo" />
+    <category term="Java" />
+    <category term="SpringCloud" />
+    <category term="Springboot" />
+    <category term="驾照" />
+    <category term="Git" />
+    <category term="Nginx" />
+    <category term="linux" />
+    <category term="RabbitMQ" />
+    <category term="SpringBoot" />
+    <category term="Redis" />
+    <entry>
+        <id>http://example.com/ElasticSearch%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/</id>
+        <title>ElasticSearch初步学习</title>
+        <link rel="alternate" href="http://example.com/ElasticSearch%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/"/>
+        <content type="html"></content>
+        <category term="ElasticSearch" />
+        <updated>2021-06-22T11:10:00.000Z</updated>
+    </entry>
+</feed>
