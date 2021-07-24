@@ -2505,10 +2505,10 @@ main >.inner {
   left: -10%;
 }
 .social .item.github::before {
-  background-color: #191717;
+  background-color: #bebfc1;
 }
 .social .item.github i {
-  color: #191717;
+  color: #bebfc1;
 }
 .social .item.music::before {
   background-color: #e60026;
@@ -2516,17 +2516,23 @@ main >.inner {
 .social .item.music i {
   color: #e60026;
 }
-.social .item.email::before {
-  background-color: #55acd5;
-}
-.social .item.email i {
-  color: #55acd5;
-}
-.social .item.about::before {
+.social .item.gitee::before {
   background-color: #3b5998;
 }
-.social .item.about i {
+.social .item.gitee i {
   color: #3b5998;
+}
+.social .item.QQ::before {
+  background-color: #1296db;
+}
+.social .item.QQ i {
+  color: #1296db;
+}
+.social .item.bilibili::before {
+  background-color: #f57895;
+}
+.social .item.bilibili i {
+  color: #f57895;
 }
 .social .item:focus i,
 .social .item:hover i {
