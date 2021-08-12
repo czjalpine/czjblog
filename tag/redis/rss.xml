@@ -15,10 +15,13 @@
         <category>驾照</category>
         <category>Git</category>
         <category>Nginx</category>
+        <category>数据库系统原理</category>
         <category>linux</category>
         <category>RabbitMQ</category>
+        <category>操作系统概论</category>
         <category>SpringBoot</category>
         <category>Redis</category>
+        <category>中国近代史</category>
         <item>
             <guid isPermalink="true">http://example.com/redis/</guid>
             <title>Redis初步学习</title>

@@ -12,10 +12,13 @@
     <category term="驾照" />
     <category term="Git" />
     <category term="Nginx" />
+    <category term="数据库系统原理" />
     <category term="linux" />
     <category term="RabbitMQ" />
+    <category term="操作系统概论" />
     <category term="SpringBoot" />
     <category term="Redis" />
+    <category term="中国近代史" />
     <entry>
         <id>http://example.com/Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</id>
         <title>Hexo安装过程</title>
