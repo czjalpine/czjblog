@@ -35,7 +35,7 @@
 &lt;h3 id=&#34;安装&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#安装&#34;&gt;#&lt;/a&gt; 安装&lt;/h3&gt;
 &lt;h4 id=&#34;1-安装nodejs&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-安装nodejs&#34;&gt;#&lt;/a&gt; 1. 安装 nodejs&lt;/h4&gt;
 &lt;p&gt;官网链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ub2RlanMub3JnL2VuLw==&#34;&gt;https://nodejs.org/en/&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/image-20210620190409458.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/image-20210620190409458.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/image-20210620190409458.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/image-20210620190409458.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;注意：左侧是稳定版、右边是测试版。一般都选稳定版&lt;/p&gt;
 &lt;h5 id=&#34;12-测试&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#12-测试&#34;&gt;#&lt;/a&gt; 1.2 测试&lt;/h5&gt;
 &lt;pre&gt;&lt;code&gt;按 [win] + r 输入cmd 
@@ -81,7 +81,7 @@
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;注意：也可以直接在 blog 文件夹下打开 &lt;code&gt;\source\_posts&lt;/code&gt;  下新建一个 markdown 文件即可&lt;br&gt;
 若需要访问图片，需要另外在 typroa 中进行偏好设置&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/image-20210620193421520.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/image-20210620193421520.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/image-20210620193421520.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/image-20210620193421520.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;推送到远端服务器&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#推送到远端服务器&#34;&gt;#&lt;/a&gt; 推送到远端服务器&lt;/h3&gt;
 &lt;h4 id=&#34;1-修改配置文件&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-修改配置文件&#34;&gt;#&lt;/a&gt; 1. 修改配置文件&lt;/h4&gt;

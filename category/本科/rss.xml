@@ -108,7 +108,7 @@
 &lt;li&gt;优点：减少了等待人工操作的时间&lt;/li&gt;
 &lt;li&gt;缺点：CPU 资源不能得到充分的利用&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080901.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080901.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080901.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080901.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;多道 批处理系统&lt;/strong&gt;&lt;/p&gt;
@@ -118,7 +118,7 @@
 &lt;li&gt;优点：能够提高 CPU、内存和 IO 设备的利用率和系统的吞吐量（选择、简答）&lt;/li&gt;
 &lt;li&gt;缺点：系统平均周转时间长（选择、简答）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080902.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080902.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080902.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080902.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;分时 操作系统&lt;/strong&gt;&lt;/p&gt;
@@ -126,7 +126,7 @@
 &lt;li&gt;定义：允许&lt;strong&gt;多个用户&lt;/strong&gt;通过终端机&lt;strong&gt;同时使用&lt;/strong&gt;计算机，每个用户通过终端与主机交互时都能得到快速响应。&lt;/li&gt;
 &lt;li&gt;特点：&lt;strong&gt;多路性、独立性、及时性、交互性&lt;/strong&gt;（选择、填空）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080903.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080903.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080903.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080903.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;实时 操作系统&lt;/strong&gt;&lt;/p&gt;
@@ -134,7 +134,7 @@
 &lt;li&gt;定义：实时系统必须&lt;strong&gt;及时响应&lt;/strong&gt;外部时间的请求，在规定时间内完成对该事件的处理。主要用于&lt;strong&gt;实时控制&lt;/strong&gt;和&lt;strong&gt;实时信息处理&lt;/strong&gt;领域。（选择、填空）&lt;/li&gt;
 &lt;li&gt;特点：&lt;strong&gt;多路性、独立性、及时性、交互性、可靠性&lt;/strong&gt;（选择、填空）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080904.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080904.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080904.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080904.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -230,7 +230,7 @@
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;采用界限寄存器存放允许程序访问的地址区间的上限和下限。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080905.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080905.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080905.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080905.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
@@ -239,17 +239,17 @@
 &lt;li&gt;
 &lt;p&gt;地址映射&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;含义：&lt;strong&gt;CPU 执行程序过程中访问内存时，需要把&lt;/strong&gt;程序的逻辑地址转变为物理地址&lt;/strong&gt;，这个转换过程称为&lt;strong&gt;地址映射&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080906.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080906.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080906.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080906.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;内存扩充&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;含义：&lt;strong&gt;借助于&lt;/strong&gt;虚拟技术&lt;/strong&gt;，从&lt;strong&gt;逻辑&lt;/strong&gt;上扩充内存容量，使系统能够向用户提供比物理内存大的存储容量。&lt;/p&gt;
 &lt;p&gt;👉&lt;strong&gt;请求调入：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;允许系统在&lt;strong&gt;装入一部分用户程序&lt;/strong&gt;时就启动该程序运行，在程序运行过程中&lt;strong&gt;若发现要执行的指令或访问的数据尚未装入内存&lt;/strong&gt;，通过&lt;strong&gt;请求调入将需要指令或数据装入内存。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080907.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080907.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080907.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080907.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;👉&lt;strong&gt;置换功能：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在请求调入时，&lt;strong&gt;若发现内存空间不足&lt;/strong&gt;，需要&lt;strong&gt;先将内存中的一部分内容换到外存中&lt;/strong&gt;，以便&lt;strong&gt;腾出内存空间&lt;/strong&gt;装入当前需要的内容。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080908.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080908.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080908.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080908.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
@@ -361,14 +361,14 @@
 &lt;li&gt;&lt;strong&gt;程序是具有独立功能的一组指令的集合&lt;/strong&gt;，程序的执行就是按照某种控制流执行指令的过程。&lt;/li&gt;
 &lt;li&gt;一个&lt;strong&gt;单一指令&lt;/strong&gt;需要的&lt;strong&gt;处理&lt;/strong&gt;称为&lt;strong&gt;指令周期&lt;/strong&gt;。&lt;/li&gt;
 &lt;li&gt;一个指令周期可以划分为两个步骤，分别是&lt;strong&gt;取指周期&lt;/strong&gt;和&lt;strong&gt;执行周期&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080909.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080909.png&#34; class=&#34;&#34;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080909.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080909.png&#34; class=&#34;&#34;&gt;&lt;/li&gt;
 &lt;li&gt;** 程序计数器 (PC)&lt;strong&gt; 保存有下一次要取的指令的地址。取到的指令被放置在处理器的&lt;/strong&gt;指令寄存器 (IR)** 中。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;取指令和执行指令&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;指令中包含确定处理器要采取动作的位，处理器解释指令并执行要求的动作。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080910.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080910.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080910.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21080910.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;👉动作分类：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;处理器与存储器&lt;/strong&gt;之间的&lt;strong&gt;指令或数据传送&lt;/strong&gt;操作&lt;/li&gt;
@@ -533,21 +533,21 @@
 &lt;ul&gt;
 &lt;li&gt;把系统中具有&lt;strong&gt;相同状态&lt;/strong&gt;的进程控制块 PCB 用其中的&lt;strong&gt;链接字&lt;/strong&gt;连成一个对联&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081101.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081101.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081101.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081101.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;索引方式&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;系统根据所有进程的状态，建立索引表，索引表的每 - 一个表项指向一个 PCB 物理块&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081102.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081102.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081102.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081102.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;进程队列&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;把具有相同状态的进程控制块用队列组织起来&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081103.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081103.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081103.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081103.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;22-进程的控制&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#22-进程的控制&#34;&gt;#&lt;/a&gt; 2.2 进程的控制&lt;/h3&gt;
@@ -622,7 +622,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;单重中断处理&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081104.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081104.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081104.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081104.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;233-时钟管理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#233-时钟管理&#34;&gt;#&lt;/a&gt; 2.3.3 时钟管理&lt;/h4&gt;
@@ -634,11 +634,11 @@
 &lt;li&gt;实时时钟 RTC（CMOS）&lt;/li&gt;
 &lt;li&gt;OS 时钟&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081105.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081105.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081105.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081105.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;时钟机制&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081106.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081106.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081106.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081106.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;时钟程序功能&lt;/p&gt;
@@ -661,7 +661,7 @@
 &lt;p&gt;区别 1: 系统调用运行在&lt;strong&gt;系统态&lt;/strong&gt;，一般函数运行在&lt;strong&gt;用户态&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;区别 2:&lt;strong&gt; 执行过程不同&lt;/strong&gt; (系统调用执行时，当前进程被中断)&lt;/p&gt;
 &lt;p&gt;区别 3: 系统调用进行中断处理，多了&lt;strong&gt;系统开销&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081107.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081107.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081107.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081107.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;系统调用的类型&lt;/p&gt;
@@ -897,7 +897,7 @@ end
 &lt;p&gt;就绪态是线程一 - 旦获得 CPU 就可以投入运行的状态。&lt;/p&gt;
 &lt;p&gt;运行态是线程获得 CPU 正在运行的状态。&lt;/p&gt;
 &lt;p&gt;阻塞态是线程由于等待某个事件的发生而暂停执行的状态。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081108.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081108.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081108.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081108.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;线程控制块（TCB）&lt;/p&gt;
@@ -1365,7 +1365,7 @@ D.以上都对
 &lt;h3 id=&#34;41-存储器的层次结构&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#41-存储器的层次结构&#34;&gt;#&lt;/a&gt; 4.1 存储器的层次结构&lt;/h3&gt;
 &lt;p&gt;​	内存是计算机存储系统的一部分，为了更好地理解后续章节内容，先了解存储器系统的层次结构。存储器系统是一个具有不同容量、成本和访问时间的存储设备的层次结构。&lt;/p&gt;
 &lt;p&gt;在这个层次系统中，从高层到底层 (L0~L5)，较低层的存储设备速度更慢、容量更大、价格更便宜。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081201.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081201.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081201.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081201.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;如果存储在高速缓存中，需要 1~ 10 个周期。&lt;/p&gt;
 &lt;p&gt;如果存放在主存中，访问它们需要 50~ 100 个周期。&lt;/p&gt;
 &lt;p&gt;如果存放在磁盘中，访问它们需要大约 2000 万个周期。&lt;/p&gt;
@@ -1400,12 +1400,12 @@ D.以上都对
 &lt;p&gt;&lt;strong&gt;可重定位装入方式&lt;/strong&gt; (静态重定位)&lt;/p&gt;
 &lt;p&gt;​	如果&lt;strong&gt;编译时不知道&lt;/strong&gt;目标程序将驻留在内存的什么位置，则编译时就必须生成可重定位的代码，其中的地址都是&lt;strong&gt;逻辑地址&lt;/strong&gt;（相对地址）, 在程序被装入内存时，再把这些逻辑地址映射为物理地址&lt;/p&gt;
 &lt;p&gt;​	在程序装入时对目标程序中的指令和数据地址的修改过程称为&lt;strong&gt;重定位&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081202.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081202.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081202.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081202.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;动态运行时装入&lt;/strong&gt; (动态重定位)&lt;/p&gt;
 &lt;p&gt;​	一个进程在被换出之前所在的内存位置与后来被从外存重新调入时内存位置不同，这种装入方式称为&lt;strong&gt;动态运行时装入&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081203.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081203.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081203.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081203.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;43-连续分配存储管理方式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#43-连续分配存储管理方式&#34;&gt;#&lt;/a&gt; 4.3 连续分配存储管理方式&lt;/h3&gt;
@@ -1433,7 +1433,7 @@ D.以上都对
 &lt;li&gt;
 &lt;p&gt;分区大小不相等&lt;/p&gt;
 &lt;p&gt;先划分多个大小不同、数量固定的若干个分区。分配的时候看哪个更接近就分配哪个。减少了浪费。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081204.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081204.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081204.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081204.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -1442,7 +1442,7 @@ D.以上都对
 &lt;p&gt;​	系统初始只有一个大空闲区，根据进程需要的空间大小分配内存。内存中&lt;strong&gt;分区的大小和数量是变化的&lt;/strong&gt;。动态分区方式比固定分区方式&lt;strong&gt;显著地提高了内存利用率&lt;/strong&gt;。系统维护一个记录当前空闲分区情况的数据结构，&lt;strong&gt;当进程请求内存时，系统从所有空闲区中找到大小合适的空闲分区进行分配&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;​	常用的数据结构有&lt;strong&gt;空闲分区表&lt;/strong&gt;和&lt;strong&gt;空闲分区链&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;➢ &lt;strong&gt;空闲分区表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;​	&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081205.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081205.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;​	&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081205.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081205.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;​	缺点：设置太多表项会浪费内存空间；设置太少无法记录所有空闲分区情况&lt;/p&gt;
 &lt;p&gt;➢ &lt;strong&gt;空闲分区链&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;​	可以&lt;strong&gt;动态地为每一个空闲分区建立一 个结点&lt;/strong&gt;，每个结点包括分区大小、分区起始地址、指向前一个空闲分区结点的指针，以及指向后一个空闲分区结点的指针。空闲分区链中的&lt;strong&gt;每个结点占用的内存可以动态分配动态回收&lt;/strong&gt;。&lt;/p&gt;
@@ -1495,7 +1495,7 @@ D.以上都对
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081206.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081206.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081206.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081206.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;45-基于分页的虚拟存储系统&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#45-基于分页的虚拟存储系统&#34;&gt;#&lt;/a&gt; 4.5 基于分页的虚拟存储系统&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;虚拟存储器&lt;/strong&gt;是指具有&lt;strong&gt;请求调入功能和置换功能&lt;/strong&gt;，能从逻辑上对内存容量进行扩充的一种存储器系统。在虚拟存储器系统中，&lt;strong&gt; 进程无需全部装入&lt;/strong&gt;，只要装入一部分即可运行。&lt;/p&gt;
 &lt;p&gt;​	虚拟存储技术实现的思想：先将进程的一部分装入内存，其余的部分需要的时候再请求系统装入，这就是请求调入。&lt;/p&gt;
@@ -1519,7 +1519,7 @@ D.以上都对
 &lt;p&gt;是支持请求分页系统最重要的数据结构，其作用是记录描述页的各种数据，包括在实现逻辑地址到物理地址映射时需要的页号与页框号的对应关系。&lt;/p&gt;
 &lt;p&gt;​	除了页号和页框号之外，页表中增加了请求换入和页置换时需要的数据。&lt;/p&gt;
 &lt;p&gt;​	在支持请求分页的系统中一般包含以下基本字段:&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081601.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081601.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081601.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081601.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;​	页框号：存放页所在的页框号。&lt;/p&gt;
 &lt;p&gt;​	状态位 P : 标识页是否在内存中。可规定 0 不在，1 在。&lt;/p&gt;
 &lt;p&gt;​	访问字段 A : 用于记录页最近被访问的情况。系统总是希望根据 A 的值把最近、最久未访问的页换出到外存。&lt;/p&gt;
@@ -1537,7 +1537,7 @@ D.以上都对
 &lt;p&gt;(2) 以页号为索引查找快表，若快表中有该页的页表项，则读出页框号，计算物理地址。&lt;/p&gt;
 &lt;p&gt;(3) 若快表中无该页信息，转到内存页表中查找。若页表中的状态位 P 显示该页调入内存，则从相应的页表项读出页所在的页框号，并计算物理地址，然后把该页表项写入快表。&lt;/p&gt;
 &lt;p&gt;(4) 若该页尚末调入内存，则产生缺页异常请求操作系统从外存中把该页调入内存，然后修改页表，重新执行被中断的指令。请求分页中的地址变换过程如下图 4-44 所示。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081602.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081602.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081602.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081602.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h4 id=&#34;452-页分配策略&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#452-页分配策略&#34;&gt;#&lt;/a&gt; 4.5.2 页分配策略&lt;/h4&gt;
@@ -1581,7 +1581,7 @@ D.以上都对
 &lt;/ol&gt;
 &lt;h4 id=&#34;综合题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#综合题&#34;&gt;#&lt;/a&gt; 综合题&lt;/h4&gt;
 &lt;p&gt;[答案] 先进先出页置换算法&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081603.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081603.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081603.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081603.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;455-请求分页系统的性能分析&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#455-请求分页系统的性能分析&#34;&gt;#&lt;/a&gt; 4.5.5 请求分页系统的性能分析&lt;/h4&gt;
 &lt;p&gt;请求调入和置换技术都是以时间换空间的技术。&lt;/p&gt;
 &lt;ol&gt;
@@ -1621,7 +1621,7 @@ D.以上都对
 &lt;p&gt;分段的逻辑地址结构&lt;br&gt;
 分段机制的逻辑地址是二维的，由段号和段内地址组成。&lt;/p&gt;
 &lt;p&gt;32 位系统中分段的地址形式为:&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081604.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081604.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081604.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081604.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;段表&lt;/p&gt;
@@ -1660,12 +1660,12 @@ D.以上都对
 (5) 由&lt;strong&gt;页框号&lt;/strong&gt;与&lt;strong&gt;页内偏移 W&lt;/strong&gt; 得到某逻辑地址对应的物理地址。&lt;/p&gt;
 &lt;p&gt;物理地址 = 页框号 * 页框大小 + 页内偏移 W&lt;br&gt;
  采用段页式存储管理的好处是，程序员可以使用分段的逻辑地址，而实际上进程却以页为单位存放于物理内存中。段页式系统的地址变换如下图。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081607.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081607.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081607.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081607.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h4 id=&#34;464-综合题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#464-综合题&#34;&gt;#&lt;/a&gt; 4.6.4 综合题&lt;/h4&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081605.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081605.png&#34; class=&#34;&#34;&gt;&lt;br&gt;
-&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081606.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081606.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081605.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081605.png&#34; class=&#34;&#34;&gt;&lt;br&gt;
+&lt;img data-src=&#34;%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081606.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/21081606.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;47-linux的伙伴系统&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#47-linux的伙伴系统&#34;&gt;#&lt;/a&gt; 4.7 Linux 的伙伴系统&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;第五章文件管理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第五章文件管理&#34;&gt;#&lt;/a&gt; 第五章：文件管理&lt;/h2&gt;
@@ -1891,7 +1891,7 @@ D.以上都对
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;概念模型：用来描述现实世界的事物，与具体的计算机系统无关&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/E-R%E5%9B%BE.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/E-R%E5%9B%BE.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/E-R%E5%9B%BE.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/E-R%E5%9B%BE.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -2008,7 +2008,7 @@ D.以上都对
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E7%A0%81.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E7%A0%81.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E7%A0%81.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E7%A0%81.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;主属性（Primary Attribute）和非主属性（Nonprimary Attribute）&lt;/strong&gt;&lt;/p&gt;
@@ -2169,7 +2169,7 @@ D.以上都对
 &lt;li&gt;计算机辅助设计法&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h4 id=&#34;五数据库设计的过程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#五数据库设计的过程&#34;&gt;#&lt;/a&gt; 五。数据库设计的过程&lt;/h4&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E8%BF%87%E7%A8%8B.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E8%BF%87%E7%A8%8B.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E8%BF%87%E7%A8%8B.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E8%BF%87%E7%A8%8B.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;第二节数据库设计的基本步骤&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第二节数据库设计的基本步骤&#34;&gt;#&lt;/a&gt; 第二节：数据库设计的基本步骤&lt;/h3&gt;
 &lt;h4 id=&#34;一需求分析&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一需求分析&#34;&gt;#&lt;/a&gt; 一。需求分析&lt;/h4&gt;
@@ -2216,7 +2216,7 @@ D.以上都对
 &lt;h4 id=&#34;二概念结构设计&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二概念结构设计&#34;&gt;#&lt;/a&gt; 二。概念结构设计&lt;/h4&gt;
 &lt;p&gt;​		在需求分析的基础按照特定的方法设计满足应用需求的用户信息结构，该信息结构通常称为概念模型。其中 E-R 图为概念模型的描述工具。&lt;/p&gt;
 &lt;h4 id=&#34;三逻辑结构设计&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三逻辑结构设计&#34;&gt;#&lt;/a&gt; 三。逻辑结构设计&lt;/h4&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;四物理设计&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#四物理设计&#34;&gt;#&lt;/a&gt; 四。物理设计&lt;/h4&gt;
 &lt;p&gt;​		指对于一个给定的数据逻辑结构，研究并构造物理结构的过程。主要任务时确定数据库在存储设别上的存储结构及存取方法。&lt;/p&gt;
 &lt;h4 id=&#34;五数据库实施&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#五数据库实施&#34;&gt;#&lt;/a&gt; 五。数据库实施&lt;/h4&gt;
@@ -3160,7 +3160,7 @@ LINES TERMINATED BY ] 	这里的设置需要跟备份时的设置保持一致，
             <category>中国近代史</category>
             <pubDate>Mon, 09 Aug 2021 12:37:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;中国近代史&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#中国近代史&#34;&gt;#&lt;/a&gt; 中国近代史&lt;/h1&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E8%AF%BE%E7%A8%8B%E7%AB%A0%E8%8A%82.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E8%AF%BE%E7%A8%8B%E7%AB%A0%E8%8A%82.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E8%AF%BE%E7%A8%8B%E7%AB%A0%E8%8A%82.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E8%AF%BE%E7%A8%8B%E7%AB%A0%E8%8A%82.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;第一章-反对外国侵略的斗争&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一章-反对外国侵略的斗争&#34;&gt;#&lt;/a&gt; 第一章 反对外国侵略的斗争&lt;/h2&gt;
 &lt;p&gt;1840—— 鸦片战争&lt;/p&gt;
 &lt;h3 id=&#34;第一节鸦片战争前的中国和世界&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一节鸦片战争前的中国和世界&#34;&gt;#&lt;/a&gt; 第一节：鸦片战争前的中国和世界&lt;/h3&gt;
@@ -3580,7 +3580,7 @@ LINES TERMINATED BY ] 	这里的设置需要跟备份时的设置保持一致，
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;实质&lt;/strong&gt;：是&lt;strong&gt;资产阶级思想&lt;/strong&gt;和&lt;strong&gt;封建主义思想&lt;/strong&gt;在中国的第一次正面交锋&lt;/p&gt;
 &lt;p&gt;注：&lt;strong&gt;张之洞&lt;/strong&gt;在《&lt;strong&gt;劝学篇&lt;/strong&gt;》提出 **“中学为体，西学为用”**，来对抗维新变法。（张之洞 ↓ ）&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E5%BC%A0%E4%B9%8B%E6%B4%9E%E7%85%A7%E7%89%87.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E5%BC%A0%E4%B9%8B%E6%B4%9E%E7%85%A7%E7%89%87.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E5%BC%A0%E4%B9%8B%E6%B4%9E%E7%85%A7%E7%89%87.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E5%BC%A0%E4%B9%8B%E6%B4%9E%E7%85%A7%E7%89%87.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;百日维新&lt;/p&gt;
@@ -4266,7 +4266,7 @@ LINES TERMINATED BY ] 	这里的设置需要跟备份时的设置保持一致，
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;共产党人对革命新道路的探索&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E5%85%B1%E4%BA%A7%E5%85%9A%E4%BA%BA%E5%AF%B9%E9%9D%A9%E5%91%BD%E6%96%B0%E9%81%93%E8%B7%AF%E7%9A%84%E6%8E%A2%E7%B4%A2.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E5%85%B1%E4%BA%A7%E5%85%9A%E4%BA%BA%E5%AF%B9%E9%9D%A9%E5%91%BD%E6%96%B0%E9%81%93%E8%B7%AF%E7%9A%84%E6%8E%A2%E7%B4%A2.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E5%85%B1%E4%BA%A7%E5%85%9A%E4%BA%BA%E5%AF%B9%E9%9D%A9%E5%91%BD%E6%96%B0%E9%81%93%E8%B7%AF%E7%9A%84%E6%8E%A2%E7%B4%A2.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E5%85%B1%E4%BA%A7%E5%85%9A%E4%BA%BA%E5%AF%B9%E9%9D%A9%E5%91%BD%E6%96%B0%E9%81%93%E8%B7%AF%E7%9A%84%E6%8E%A2%E7%B4%A2.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;红军反围剿作战和土地革命&lt;/p&gt;
@@ -5228,7 +5228,7 @@ LINES TERMINATED BY ] 	这里的设置需要跟备份时的设置保持一致，
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h4 id=&#34;文化大革命&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#文化大革命&#34;&gt;#&lt;/a&gt; 文化大革命&lt;/h4&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E6%96%87%E9%9D%A9.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E6%96%87%E9%9D%A9.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E6%96%87%E9%9D%A9.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E6%96%87%E9%9D%A9.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;严重的曲折深刻的教训&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#严重的曲折深刻的教训&#34;&gt;#&lt;/a&gt; 严重的曲折深刻的教训&lt;/h4&gt;
 &lt;p&gt;如何看待文化大革命：【常见简答题】&lt;/p&gt;
 &lt;p&gt;党：犯错误的时候，党的性质和总之没有变&lt;/p&gt;
