@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://xinyao_idiot.gitee.io/zxy</id>
     <title>失心耀的博客</title>
-    <link href="http://example.com" />
+    <link href="https://xinyao_idiot.gitee.io/zxy" />
     <updated>2021-08-11T10:27:00.000Z</updated>
     <category term="ElasticSearch" />
     <category term="Hexo" />
@@ -20,9 +20,9 @@
     <category term="Redis" />
     <category term="中国近代史" />
     <entry>
-        <id>http://example.com/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/</id>
         <title>操作系统概论</title>
-        <link rel="alternate" href="http://example.com/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/"/>
         <content type="html">&lt;h1 id=&#34;操作系统概论&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#操作系统概论&#34;&gt;#&lt;/a&gt; 操作系统概论&lt;/h1&gt;
 &lt;h2 id=&#34;考试题型&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#考试题型&#34;&gt;#&lt;/a&gt; 考试题型&lt;/h2&gt;
 &lt;table&gt;
@@ -1680,9 +1680,9 @@ D.以上都对
         <updated>2021-08-11T10:27:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/</id>
         <title>数据库系统原理</title>
-        <link rel="alternate" href="http://example.com/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/"/>
         <content type="html">&lt;h1 id=&#34;数据库系统原理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#数据库系统原理&#34;&gt;#&lt;/a&gt; 数据库系统原理&lt;/h1&gt;
 &lt;h2 id=&#34;第一章-数据库系统概念&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一章-数据库系统概念&#34;&gt;#&lt;/a&gt; 第一章、数据库系统概念&lt;/h2&gt;
 &lt;h3 id=&#34;第一节数据库基本概念&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一节数据库基本概念&#34;&gt;#&lt;/a&gt; 第一节：数据库基本概念&lt;/h3&gt;
@@ -3151,9 +3151,9 @@ LINES TERMINATED BY ] 	这里的设置需要跟备份时的设置保持一致，
         <updated>2021-08-09T06:14:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/</id>
         <title>中国近代史</title>
-        <link rel="alternate" href="http://example.com/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/"/>
         <content type="html">&lt;h1 id=&#34;中国近代史&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#中国近代史&#34;&gt;#&lt;/a&gt; 中国近代史&lt;/h1&gt;
 &lt;p&gt;&lt;img data-src=&#34;%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E8%AF%BE%E7%A8%8B%E7%AB%A0%E8%8A%82.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E8%AF%BE%E7%A8%8B%E7%AB%A0%E8%8A%82.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;第一章-反对外国侵略的斗争&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一章-反对外国侵略的斗争&#34;&gt;#&lt;/a&gt; 第一章 反对外国侵略的斗争&lt;/h2&gt;
@@ -5531,9 +5531,9 @@ LINES TERMINATED BY ] 	这里的设置需要跟备份时的设置保持一致，
         <updated>2021-08-09T04:37:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/%E7%A7%91%E7%9B%AE%E4%B8%80%E7%AC%94%E8%AE%B0/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/%E7%A7%91%E7%9B%AE%E4%B8%80%E7%AC%94%E8%AE%B0/</id>
         <title>科目一笔记</title>
-        <link rel="alternate" href="http://example.com/%E7%A7%91%E7%9B%AE%E4%B8%80%E7%AC%94%E8%AE%B0/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/%E7%A7%91%E7%9B%AE%E4%B8%80%E7%AC%94%E8%AE%B0/"/>
         <content type="html">&lt;h2 id=&#34;科目一笔记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#科目一笔记&#34;&gt;#&lt;/a&gt; 科目一笔记&lt;/h2&gt;
 &lt;h3 id=&#34;1法律-法规及道路交通信号&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1法律-法规及道路交通信号&#34;&gt;#&lt;/a&gt; 1. 法律、法规及道路交通信号&lt;/h3&gt;
 &lt;h4 id=&#34;11-许可-种类-有效期和申请条件&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#11-许可-种类-有效期和申请条件&#34;&gt;#&lt;/a&gt; 1.1、许可、种类、有效期和申请条件&lt;/h4&gt;
@@ -5878,9 +5878,9 @@ LINES TERMINATED BY ] 	这里的设置需要跟备份时的设置保持一致，
         <updated>2021-07-14T05:22:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/%E9%A9%BE%E7%85%A7/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/%E9%A9%BE%E7%85%A7/</id>
         <title>驾照</title>
-        <link rel="alternate" href="http://example.com/%E9%A9%BE%E7%85%A7/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/%E9%A9%BE%E7%85%A7/"/>
         <content type="html">&lt;h2 id=&#34;报考原因&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#报考原因&#34;&gt;#&lt;/a&gt; 报考原因&lt;/h2&gt;
 &lt;p&gt;报考主要是宿舍的老伙计们都准备报了，家里也觉得有驾照之后再买个车就可以回老家去炫耀，所以我就在这个暑假报了 C1。&lt;/p&gt;
 &lt;h2 id=&#34;文章内容&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#文章内容&#34;&gt;#&lt;/a&gt; 文章内容&lt;/h2&gt;
@@ -5890,9 +5890,9 @@ LINES TERMINATED BY ] 	这里的设置需要跟备份时的设置保持一致，
         <updated>2021-07-14T05:17:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/</id>
         <title>SpringCloud（尚硅谷）</title>
-        <link rel="alternate" href="http://example.com/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/"/>
         <content type="html">&lt;h1 id=&#34;springcloud&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#springcloud&#34;&gt;#&lt;/a&gt; SpringCloud&lt;/h1&gt;
 &lt;h3 id=&#34;一-微服务架构理论&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-微服务架构理论&#34;&gt;#&lt;/a&gt; 一、微服务架构理论&lt;/h3&gt;
 &lt;h4 id=&#34;1-什么是微服务&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-什么是微服务&#34;&gt;#&lt;/a&gt; 1. 什么是微服务&lt;/h4&gt;
@@ -5981,9 +5981,9 @@ LINES TERMINATED BY ] 	这里的设置需要跟备份时的设置保持一致，
         <updated>2021-06-29T01:10:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</id>
         <title>SpringCloud笔记心得</title>
-        <link rel="alternate" href="http://example.com/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/"/>
         <content type="html">&lt;h1 id=&#34;springcloud笔记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#springcloud笔记&#34;&gt;#&lt;/a&gt; SpringCloud 笔记&lt;/h1&gt;
 &lt;h2 id=&#34;1-前言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-前言&#34;&gt;#&lt;/a&gt; 1、前言&lt;/h2&gt;
 &lt;h3 id=&#34;11-前提需要&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#11-前提需要&#34;&gt;#&lt;/a&gt; 1.1、前提需要&lt;/h3&gt;
@@ -7317,17 +7317,17 @@ SELECT * FROM dept;
         <updated>2021-06-23T03:10:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/ElasticSearch%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/ElasticSearch%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/</id>
         <title>ElasticSearch初步学习</title>
-        <link rel="alternate" href="http://example.com/ElasticSearch%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/ElasticSearch%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/"/>
         <content type="html"></content>
         <category term="ElasticSearch" />
         <updated>2021-06-22T11:10:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/SpringBoot%E7%AC%94%E8%AE%B0%E5%BF%83%E5%BE%97/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/SpringBoot%E7%AC%94%E8%AE%B0%E5%BF%83%E5%BE%97/</id>
         <title>springboot笔记心得</title>
-        <link rel="alternate" href="http://example.com/SpringBoot%E7%AC%94%E8%AE%B0%E5%BF%83%E5%BE%97/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/SpringBoot%E7%AC%94%E8%AE%B0%E5%BF%83%E5%BE%97/"/>
         <content type="html">&lt;h2 id=&#34;springboot笔记心得&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#springboot笔记心得&#34;&gt;#&lt;/a&gt; springboot 笔记心得&lt;/h2&gt;
 &lt;h3 id=&#34;一-初始配置&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-初始配置&#34;&gt;#&lt;/a&gt; 一、初始配置&lt;/h3&gt;
 &lt;p&gt;欲要攻其事，必先利其器，学习 Springboot 则需要先配置好相关的配置。&lt;/p&gt;
@@ -8409,9 +8409,9 @@ public class MyMvcConfig implements WebMvcConfigurer &amp;#123;
         <updated>2021-06-22T11:10:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/redis/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/redis/</id>
         <title>Redis初步学习</title>
-        <link rel="alternate" href="http://example.com/redis/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/redis/"/>
         <content type="html">&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Bilibili 搜索关注：狂神说（所有课程免费） 公众号：狂神说（日更文章）&lt;/p&gt;
@@ -9316,9 +9316,9 @@ public class MyMvcConfig implements WebMvcConfigurer &amp;#123;
         <updated>2021-05-13T08:30:03.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</id>
         <title>RabbitMQ 高级特性</title>
-        <link rel="alternate" href="http://example.com/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/"/>
         <content type="html">&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;h1 id=&#34;1-rabbitmq高级-过期时间ttl&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-rabbitmq高级-过期时间ttl&#34;&gt;#&lt;/a&gt; 1. RabbitMQ 高级 - 过期时间 TTL&lt;/h1&gt;
 &lt;h2 id=&#34;11-概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#11-概述&#34;&gt;#&lt;/a&gt; 1.1 概述&lt;/h2&gt;
@@ -9627,9 +9627,9 @@ public class MyMvcConfig implements WebMvcConfigurer &amp;#123;
         <updated>2021-05-10T03:38:04.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/</id>
         <title>RabbitMQ 入门及使用</title>
-        <link rel="alternate" href="http://example.com/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/"/>
         <content type="html">&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;h1 id=&#34;1-rabbitmq入门及安装&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-rabbitmq入门及安装&#34;&gt;#&lt;/a&gt; 1. RabbitMQ 入门及安装&lt;/h1&gt;
 &lt;h2 id=&#34;11-概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#11-概述&#34;&gt;#&lt;/a&gt; 1.1 概述&lt;/h2&gt;
@@ -10034,9 +10034,9 @@ RabbitMQ 是采用 Erlang 语言开发的，所以系统环境必须提供 Erlan
         <updated>2021-05-10T00:39:18.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/nginx/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/nginx/</id>
         <title>Nginx初步学习</title>
-        <link rel="alternate" href="http://example.com/nginx/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/nginx/"/>
         <content type="html">&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;h1 id=&#34;nginx&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#nginx&#34;&gt;#&lt;/a&gt; nginx&lt;/h1&gt;
 &lt;p&gt;推荐视频：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXpKNDExdzdTVj9wPTE=&#34;&gt;尚硅谷 Nginx&lt;/span&gt;&lt;/p&gt;
@@ -10317,9 +10317,9 @@ RabbitMQ 是采用 Erlang 语言开发的，所以系统环境必须提供 Erlan
         <updated>2021-04-02T08:30:03.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/Linux/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/Linux/</id>
         <title>Linux初步学习</title>
-        <link rel="alternate" href="http://example.com/Linux/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/Linux/"/>
         <content type="html">&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;h1 id=&#34;linux学习日志&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#linux学习日志&#34;&gt;#&lt;/a&gt; Linux 学习日志&lt;/h1&gt;
 &lt;h2 id=&#34;学习相关资料和技术文档&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#学习相关资料和技术文档&#34;&gt;#&lt;/a&gt; 学习相关资料和技术文档&lt;/h2&gt;
@@ -11190,9 +11190,9 @@ export PATH CLASSPATH JAVA_HOME
         <updated>2021-04-01T08:30:03.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</id>
         <title>Git协同与提交规范</title>
-        <link rel="alternate" href="http://example.com/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/"/>
         <content type="html">&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;h2 id=&#34;1前言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1前言&#34;&gt;#&lt;/a&gt; 1. 前言&lt;/h2&gt;
 &lt;p&gt;在现代化的软件开发中，尤其是在企业中的团队协同开发流程与代码管理方面，git 都充当着不可或缺的角色。本章中将会讲述如何使用 git 来进行一些基本的版本控制操作与团队协同中的 git 使用流程管理与提交规范。&lt;/p&gt;
@@ -11484,9 +11484,9 @@ Body 部分的格式是固定的，必须写成 This reverts commit &lt;hash&gt;
         <updated>2021-04-01T00:40:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</id>
         <title>Hexo安装过程</title>
-        <link rel="alternate" href="http://example.com/Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/"/>
         <content type="html">&lt;h2 id=&#34;搭建hexo&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#搭建hexo&#34;&gt;#&lt;/a&gt; 搭建 Hexo&lt;/h2&gt;
 &lt;h3 id=&#34;前提提要&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#前提提要&#34;&gt;#&lt;/a&gt; 前提提要&lt;/h3&gt;
 &lt;p&gt;首先需要一下软件&lt;/p&gt;
@@ -11571,9 +11571,9 @@ hexo d	   推送到远端
         <updated>2021-03-01T00:40:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/Java%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/Java%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</id>
         <title>Java安装过程</title>
-        <link rel="alternate" href="http://example.com/Java%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/Java%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/"/>
         <content type="html">&lt;h2 id=&#34;java安装过程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#java安装过程&#34;&gt;#&lt;/a&gt; Java 安装过程&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;前提&lt;/strong&gt;：jdk 的安装包&lt;/p&gt;
 &lt;h3 id=&#34;操作流程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#操作流程&#34;&gt;#&lt;/a&gt; 操作流程：&lt;/h3&gt;
@@ -11598,9 +11598,9 @@ hexo d	   推送到远端
         <updated>2021-03-01T00:40:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/Springboot%E7%BB%83%E4%B9%A0/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/Springboot%E7%BB%83%E4%B9%A0/</id>
         <title>Springboot 后端练习任务</title>
-        <link rel="alternate" href="http://example.com/Springboot%E7%BB%83%E4%B9%A0/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/Springboot%E7%BB%83%E4%B9%A0/"/>
         <content type="html">&lt;h2 id=&#34;后端练习任务&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#后端练习任务&#34;&gt;#&lt;/a&gt; 后端练习任务&lt;/h2&gt;
 &lt;h3 id=&#34;day01&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#day01&#34;&gt;#&lt;/a&gt; day01：&lt;/h3&gt;
 &lt;h4 id=&#34;1创建springboot工程熟悉每个目录结构的作用&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1创建springboot工程熟悉每个目录结构的作用&#34;&gt;#&lt;/a&gt; 1. 创建 Springboot 工程，熟悉每个目录结构的作用&lt;/h4&gt;

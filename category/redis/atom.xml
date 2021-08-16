@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://xinyao_idiot.gitee.io/zxy</id>
     <title>失心耀的博客 • Posts by &#34;redis&#34; category</title>
-    <link href="http://example.com" />
+    <link href="https://xinyao_idiot.gitee.io/zxy" />
     <updated>2021-05-13T08:30:03.000Z</updated>
     <category term="ElasticSearch" />
     <category term="Hexo" />
@@ -20,9 +20,9 @@
     <category term="Redis" />
     <category term="中国近代史" />
     <entry>
-        <id>http://example.com/redis/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/redis/</id>
         <title>Redis初步学习</title>
-        <link rel="alternate" href="http://example.com/redis/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/redis/"/>
         <content type="html">&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Bilibili 搜索关注：狂神说（所有课程免费） 公众号：狂神说（日更文章）&lt;/p&gt;

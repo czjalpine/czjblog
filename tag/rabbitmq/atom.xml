@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://xinyao_idiot.gitee.io/zxy</id>
     <title>失心耀的博客 • Posts by &#34;rabbitmq&#34; tag</title>
-    <link href="http://example.com" />
+    <link href="https://xinyao_idiot.gitee.io/zxy" />
     <updated>2021-05-10T03:38:04.000Z</updated>
     <category term="ElasticSearch" />
     <category term="Hexo" />
@@ -20,9 +20,9 @@
     <category term="Redis" />
     <category term="中国近代史" />
     <entry>
-        <id>http://example.com/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</id>
         <title>RabbitMQ 高级特性</title>
-        <link rel="alternate" href="http://example.com/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/"/>
         <content type="html">&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;h1 id=&#34;1-rabbitmq高级-过期时间ttl&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-rabbitmq高级-过期时间ttl&#34;&gt;#&lt;/a&gt; 1. RabbitMQ 高级 - 过期时间 TTL&lt;/h1&gt;
 &lt;h2 id=&#34;11-概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#11-概述&#34;&gt;#&lt;/a&gt; 1.1 概述&lt;/h2&gt;
@@ -331,9 +331,9 @@
         <updated>2021-05-10T03:38:04.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/</id>
         <title>RabbitMQ 入门及使用</title>
-        <link rel="alternate" href="http://example.com/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/"/>
         <content type="html">&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;h1 id=&#34;1-rabbitmq入门及安装&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-rabbitmq入门及安装&#34;&gt;#&lt;/a&gt; 1. RabbitMQ 入门及安装&lt;/h1&gt;
 &lt;h2 id=&#34;11-概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#11-概述&#34;&gt;#&lt;/a&gt; 1.1 概述&lt;/h2&gt;

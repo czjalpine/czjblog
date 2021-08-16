@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://xinyao_idiot.gitee.io/zxy</id>
     <title>失心耀的博客 • Posts by &#34;springboot&#34; category</title>
-    <link href="http://example.com" />
+    <link href="https://xinyao_idiot.gitee.io/zxy" />
     <updated>2021-06-22T11:10:00.000Z</updated>
     <category term="ElasticSearch" />
     <category term="Hexo" />
@@ -20,9 +20,9 @@
     <category term="Redis" />
     <category term="中国近代史" />
     <entry>
-        <id>http://example.com/SpringBoot%E7%AC%94%E8%AE%B0%E5%BF%83%E5%BE%97/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/SpringBoot%E7%AC%94%E8%AE%B0%E5%BF%83%E5%BE%97/</id>
         <title>springboot笔记心得</title>
-        <link rel="alternate" href="http://example.com/SpringBoot%E7%AC%94%E8%AE%B0%E5%BF%83%E5%BE%97/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/SpringBoot%E7%AC%94%E8%AE%B0%E5%BF%83%E5%BE%97/"/>
         <content type="html">&lt;h2 id=&#34;springboot笔记心得&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#springboot笔记心得&#34;&gt;#&lt;/a&gt; springboot 笔记心得&lt;/h2&gt;
 &lt;h3 id=&#34;一-初始配置&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-初始配置&#34;&gt;#&lt;/a&gt; 一、初始配置&lt;/h3&gt;
 &lt;p&gt;欲要攻其事，必先利其器，学习 Springboot 则需要先配置好相关的配置。&lt;/p&gt;
@@ -1104,9 +1104,9 @@ public class MyMvcConfig implements WebMvcConfigurer &amp;#123;
         <updated>2021-06-22T11:10:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/Springboot%E7%BB%83%E4%B9%A0/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/Springboot%E7%BB%83%E4%B9%A0/</id>
         <title>Springboot 后端练习任务</title>
-        <link rel="alternate" href="http://example.com/Springboot%E7%BB%83%E4%B9%A0/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/Springboot%E7%BB%83%E4%B9%A0/"/>
         <content type="html">&lt;h2 id=&#34;后端练习任务&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#后端练习任务&#34;&gt;#&lt;/a&gt; 后端练习任务&lt;/h2&gt;
 &lt;h3 id=&#34;day01&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#day01&#34;&gt;#&lt;/a&gt; day01：&lt;/h3&gt;
 &lt;h4 id=&#34;1创建springboot工程熟悉每个目录结构的作用&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1创建springboot工程熟悉每个目录结构的作用&#34;&gt;#&lt;/a&gt; 1. 创建 Springboot 工程，熟悉每个目录结构的作用&lt;/h4&gt;

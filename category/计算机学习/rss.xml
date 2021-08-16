@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>失心耀的博客 • Posts by &#34;计算机学习&#34; category</title>
-        <link>http://example.com</link>
+        <link>https://xinyao_idiot.gitee.io/zxy</link>
         <description></description>
         <language>zh-CN</language>
         <pubDate>Tue, 29 Jun 2021 09:10:00 +0800</pubDate>
@@ -23,9 +23,9 @@
         <category>Redis</category>
         <category>中国近代史</category>
         <item>
-            <guid isPermalink="true">http://example.com/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/</guid>
+            <guid isPermalink="true">https://xinyao_idiot.gitee.io/zxy/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/</guid>
             <title>SpringCloud（尚硅谷）</title>
-            <link>http://example.com/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/</link>
+            <link>https://xinyao_idiot.gitee.io/zxy/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/</link>
             <category>SpringCloud</category>
             <pubDate>Tue, 29 Jun 2021 09:10:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;springcloud&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#springcloud&#34;&gt;#&lt;/a&gt; SpringCloud&lt;/h1&gt;
@@ -114,9 +114,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</guid>
+            <guid isPermalink="true">https://xinyao_idiot.gitee.io/zxy/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</guid>
             <title>SpringCloud笔记心得</title>
-            <link>http://example.com/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</link>
+            <link>https://xinyao_idiot.gitee.io/zxy/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</link>
             <category>SpringCloud</category>
             <pubDate>Wed, 23 Jun 2021 11:10:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;springcloud笔记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#springcloud笔记&#34;&gt;#&lt;/a&gt; SpringCloud 笔记&lt;/h1&gt;
@@ -1450,17 +1450,17 @@ SELECT * FROM dept;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/ElasticSearch%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/</guid>
+            <guid isPermalink="true">https://xinyao_idiot.gitee.io/zxy/ElasticSearch%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/</guid>
             <title>ElasticSearch初步学习</title>
-            <link>http://example.com/ElasticSearch%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/</link>
+            <link>https://xinyao_idiot.gitee.io/zxy/ElasticSearch%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/</link>
             <category>ElasticSearch</category>
             <pubDate>Tue, 22 Jun 2021 19:10:00 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/SpringBoot%E7%AC%94%E8%AE%B0%E5%BF%83%E5%BE%97/</guid>
+            <guid isPermalink="true">https://xinyao_idiot.gitee.io/zxy/SpringBoot%E7%AC%94%E8%AE%B0%E5%BF%83%E5%BE%97/</guid>
             <title>springboot笔记心得</title>
-            <link>http://example.com/SpringBoot%E7%AC%94%E8%AE%B0%E5%BF%83%E5%BE%97/</link>
+            <link>https://xinyao_idiot.gitee.io/zxy/SpringBoot%E7%AC%94%E8%AE%B0%E5%BF%83%E5%BE%97/</link>
             <category>SpringBoot</category>
             <pubDate>Tue, 22 Jun 2021 19:10:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;springboot笔记心得&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#springboot笔记心得&#34;&gt;#&lt;/a&gt; springboot 笔记心得&lt;/h2&gt;
@@ -2542,9 +2542,9 @@ public class MyMvcConfig implements WebMvcConfigurer &amp;#123;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/redis/</guid>
+            <guid isPermalink="true">https://xinyao_idiot.gitee.io/zxy/redis/</guid>
             <title>Redis初步学习</title>
-            <link>http://example.com/redis/</link>
+            <link>https://xinyao_idiot.gitee.io/zxy/redis/</link>
             <category>Redis</category>
             <pubDate>Thu, 13 May 2021 16:30:03 +0800</pubDate>
             <description><![CDATA[ &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
@@ -3449,9 +3449,9 @@ public class MyMvcConfig implements WebMvcConfigurer &amp;#123;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</guid>
+            <guid isPermalink="true">https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</guid>
             <title>RabbitMQ 高级特性</title>
-            <link>http://example.com/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</link>
+            <link>https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</link>
             <category>RabbitMQ</category>
             <pubDate>Mon, 10 May 2021 11:38:04 +0800</pubDate>
             <description><![CDATA[ &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
@@ -3760,9 +3760,9 @@ public class MyMvcConfig implements WebMvcConfigurer &amp;#123;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/</guid>
+            <guid isPermalink="true">https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/</guid>
             <title>RabbitMQ 入门及使用</title>
-            <link>http://example.com/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/</link>
+            <link>https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/</link>
             <category>RabbitMQ</category>
             <pubDate>Mon, 10 May 2021 08:39:18 +0800</pubDate>
             <description><![CDATA[ &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
@@ -4167,9 +4167,9 @@ RabbitMQ 是采用 Erlang 语言开发的，所以系统环境必须提供 Erlan
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/nginx/</guid>
+            <guid isPermalink="true">https://xinyao_idiot.gitee.io/zxy/nginx/</guid>
             <title>Nginx初步学习</title>
-            <link>http://example.com/nginx/</link>
+            <link>https://xinyao_idiot.gitee.io/zxy/nginx/</link>
             <category>Nginx</category>
             <pubDate>Fri, 02 Apr 2021 16:30:03 +0800</pubDate>
             <description><![CDATA[ &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
@@ -4450,9 +4450,9 @@ RabbitMQ 是采用 Erlang 语言开发的，所以系统环境必须提供 Erlan
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/Linux/</guid>
+            <guid isPermalink="true">https://xinyao_idiot.gitee.io/zxy/Linux/</guid>
             <title>Linux初步学习</title>
-            <link>http://example.com/Linux/</link>
+            <link>https://xinyao_idiot.gitee.io/zxy/Linux/</link>
             <category>linux</category>
             <pubDate>Thu, 01 Apr 2021 16:30:03 +0800</pubDate>
             <description><![CDATA[ &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
@@ -5323,9 +5323,9 @@ export PATH CLASSPATH JAVA_HOME
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</guid>
+            <guid isPermalink="true">https://xinyao_idiot.gitee.io/zxy/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</guid>
             <title>Git协同与提交规范</title>
-            <link>http://example.com/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</link>
+            <link>https://xinyao_idiot.gitee.io/zxy/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</link>
             <category>Git</category>
             <pubDate>Thu, 01 Apr 2021 08:40:00 +0800</pubDate>
             <description><![CDATA[ &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
@@ -5617,9 +5617,9 @@ Body 部分的格式是固定的，必须写成 This reverts commit &lt;hash&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/Springboot%E7%BB%83%E4%B9%A0/</guid>
+            <guid isPermalink="true">https://xinyao_idiot.gitee.io/zxy/Springboot%E7%BB%83%E4%B9%A0/</guid>
             <title>Springboot 后端练习任务</title>
-            <link>http://example.com/Springboot%E7%BB%83%E4%B9%A0/</link>
+            <link>https://xinyao_idiot.gitee.io/zxy/Springboot%E7%BB%83%E4%B9%A0/</link>
             <category>Springboot</category>
             <pubDate>Mon, 01 Mar 2021 08:40:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;后端练习任务&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#后端练习任务&#34;&gt;#&lt;/a&gt; 后端练习任务&lt;/h2&gt;

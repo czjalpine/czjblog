@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://xinyao_idiot.gitee.io/zxy</id>
     <title>失心耀的博客 • Posts by &#34;java&#34; tag</title>
-    <link href="http://example.com" />
+    <link href="https://xinyao_idiot.gitee.io/zxy" />
     <updated>2021-03-01T00:40:00.000Z</updated>
     <category term="ElasticSearch" />
     <category term="Hexo" />
@@ -20,9 +20,9 @@
     <category term="Redis" />
     <category term="中国近代史" />
     <entry>
-        <id>http://example.com/Java%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/Java%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</id>
         <title>Java安装过程</title>
-        <link rel="alternate" href="http://example.com/Java%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/Java%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/"/>
         <content type="html">&lt;h2 id=&#34;java安装过程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#java安装过程&#34;&gt;#&lt;/a&gt; Java 安装过程&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;前提&lt;/strong&gt;：jdk 的安装包&lt;/p&gt;
 &lt;h3 id=&#34;操作流程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#操作流程&#34;&gt;#&lt;/a&gt; 操作流程：&lt;/h3&gt;

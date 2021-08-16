@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>失心耀的博客 • Posts by &#34;springcloud&#34; category</title>
-        <link>http://example.com</link>
+        <link>https://xinyao_idiot.gitee.io/zxy</link>
         <description></description>
         <language>zh-CN</language>
         <pubDate>Tue, 29 Jun 2021 09:10:00 +0800</pubDate>
@@ -23,9 +23,9 @@
         <category>Redis</category>
         <category>中国近代史</category>
         <item>
-            <guid isPermalink="true">http://example.com/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/</guid>
+            <guid isPermalink="true">https://xinyao_idiot.gitee.io/zxy/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/</guid>
             <title>SpringCloud（尚硅谷）</title>
-            <link>http://example.com/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/</link>
+            <link>https://xinyao_idiot.gitee.io/zxy/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/</link>
             <category>SpringCloud</category>
             <pubDate>Tue, 29 Jun 2021 09:10:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;springcloud&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#springcloud&#34;&gt;#&lt;/a&gt; SpringCloud&lt;/h1&gt;
@@ -114,9 +114,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</guid>
+            <guid isPermalink="true">https://xinyao_idiot.gitee.io/zxy/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</guid>
             <title>SpringCloud笔记心得</title>
-            <link>http://example.com/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</link>
+            <link>https://xinyao_idiot.gitee.io/zxy/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</link>
             <category>SpringCloud</category>
             <pubDate>Wed, 23 Jun 2021 11:10:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;springcloud笔记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#springcloud笔记&#34;&gt;#&lt;/a&gt; SpringCloud 笔记&lt;/h1&gt;

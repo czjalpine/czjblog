@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://xinyao_idiot.gitee.io/zxy</id>
     <title>失心耀的博客 • Posts by &#34;nginx&#34; tag</title>
-    <link href="http://example.com" />
+    <link href="https://xinyao_idiot.gitee.io/zxy" />
     <updated>2021-04-02T08:30:03.000Z</updated>
     <category term="ElasticSearch" />
     <category term="Hexo" />
@@ -20,9 +20,9 @@
     <category term="Redis" />
     <category term="中国近代史" />
     <entry>
-        <id>http://example.com/nginx/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/nginx/</id>
         <title>Nginx初步学习</title>
-        <link rel="alternate" href="http://example.com/nginx/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/nginx/"/>
         <content type="html">&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;h1 id=&#34;nginx&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#nginx&#34;&gt;#&lt;/a&gt; nginx&lt;/h1&gt;
 &lt;p&gt;推荐视频：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXpKNDExdzdTVj9wPTE=&#34;&gt;尚硅谷 Nginx&lt;/span&gt;&lt;/p&gt;

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://xinyao_idiot.gitee.io/zxy</id>
     <title>失心耀的博客 • Posts by &#34;git&#34; category</title>
-    <link href="http://example.com" />
+    <link href="https://xinyao_idiot.gitee.io/zxy" />
     <updated>2021-04-01T00:40:00.000Z</updated>
     <category term="ElasticSearch" />
     <category term="Hexo" />
@@ -20,9 +20,9 @@
     <category term="Redis" />
     <category term="中国近代史" />
     <entry>
-        <id>http://example.com/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</id>
         <title>Git协同与提交规范</title>
-        <link rel="alternate" href="http://example.com/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/"/>
         <content type="html">&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;h2 id=&#34;1前言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1前言&#34;&gt;#&lt;/a&gt; 1. 前言&lt;/h2&gt;
 &lt;p&gt;在现代化的软件开发中，尤其是在企业中的团队协同开发流程与代码管理方面，git 都充当着不可或缺的角色。本章中将会讲述如何使用 git 来进行一些基本的版本控制操作与团队协同中的 git 使用流程管理与提交规范。&lt;/p&gt;

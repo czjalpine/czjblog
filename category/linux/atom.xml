@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://xinyao_idiot.gitee.io/zxy</id>
     <title>失心耀的博客 • Posts by &#34;linux&#34; category</title>
-    <link href="http://example.com" />
+    <link href="https://xinyao_idiot.gitee.io/zxy" />
     <updated>2021-04-01T08:30:03.000Z</updated>
     <category term="ElasticSearch" />
     <category term="Hexo" />
@@ -20,9 +20,9 @@
     <category term="Redis" />
     <category term="中国近代史" />
     <entry>
-        <id>http://example.com/Linux/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/Linux/</id>
         <title>Linux初步学习</title>
-        <link rel="alternate" href="http://example.com/Linux/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/Linux/"/>
         <content type="html">&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;h1 id=&#34;linux学习日志&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#linux学习日志&#34;&gt;#&lt;/a&gt; Linux 学习日志&lt;/h1&gt;
 &lt;h2 id=&#34;学习相关资料和技术文档&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#学习相关资料和技术文档&#34;&gt;#&lt;/a&gt; 学习相关资料和技术文档&lt;/h2&gt;

@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>失心耀的博客 • Posts by &#34;nginx&#34; tag</title>
-        <link>http://example.com</link>
+        <link>https://xinyao_idiot.gitee.io/zxy</link>
         <description></description>
         <language>zh-CN</language>
         <pubDate>Fri, 02 Apr 2021 16:30:03 +0800</pubDate>
@@ -23,9 +23,9 @@
         <category>Redis</category>
         <category>中国近代史</category>
         <item>
-            <guid isPermalink="true">http://example.com/nginx/</guid>
+            <guid isPermalink="true">https://xinyao_idiot.gitee.io/zxy/nginx/</guid>
             <title>Nginx初步学习</title>
-            <link>http://example.com/nginx/</link>
+            <link>https://xinyao_idiot.gitee.io/zxy/nginx/</link>
             <category>Nginx</category>
             <pubDate>Fri, 02 Apr 2021 16:30:03 +0800</pubDate>
             <description><![CDATA[ &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;

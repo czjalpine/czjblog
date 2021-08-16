@@ -2,11 +2,11 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "失心耀的博客 • All posts by \"elasticsearch\" tag",
     "description": "",
-    "home_page_url": "http://example.com",
+    "home_page_url": "https://xinyao_idiot.gitee.io/zxy",
     "items": [
         {
-            "id": "http://example.com/ElasticSearch%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/",
-            "url": "http://example.com/ElasticSearch%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/",
+            "id": "https://xinyao_idiot.gitee.io/zxy/ElasticSearch%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/",
+            "url": "https://xinyao_idiot.gitee.io/zxy/ElasticSearch%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/",
             "title": "ElasticSearch初步学习",
             "date_published": "2021-06-22T11:10:00.000Z",
             "content_html": "",

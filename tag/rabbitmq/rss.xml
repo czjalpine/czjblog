@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>失心耀的博客 • Posts by &#34;rabbitmq&#34; tag</title>
-        <link>http://example.com</link>
+        <link>https://xinyao_idiot.gitee.io/zxy</link>
         <description></description>
         <language>zh-CN</language>
         <pubDate>Mon, 10 May 2021 11:38:04 +0800</pubDate>
@@ -23,9 +23,9 @@
         <category>Redis</category>
         <category>中国近代史</category>
         <item>
-            <guid isPermalink="true">http://example.com/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</guid>
+            <guid isPermalink="true">https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</guid>
             <title>RabbitMQ 高级特性</title>
-            <link>http://example.com/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</link>
+            <link>https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</link>
             <category>RabbitMQ</category>
             <pubDate>Mon, 10 May 2021 11:38:04 +0800</pubDate>
             <description><![CDATA[ &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
@@ -334,9 +334,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/</guid>
+            <guid isPermalink="true">https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/</guid>
             <title>RabbitMQ 入门及使用</title>
-            <link>http://example.com/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/</link>
+            <link>https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/</link>
             <category>RabbitMQ</category>
             <pubDate>Mon, 10 May 2021 08:39:18 +0800</pubDate>
             <description><![CDATA[ &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;

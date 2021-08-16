@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://xinyao_idiot.gitee.io/zxy</id>
     <title>失心耀的博客 • Posts by &#34;驾照&#34; category</title>
-    <link href="http://example.com" />
+    <link href="https://xinyao_idiot.gitee.io/zxy" />
     <updated>2021-07-14T05:22:00.000Z</updated>
     <category term="ElasticSearch" />
     <category term="Hexo" />
@@ -20,9 +20,9 @@
     <category term="Redis" />
     <category term="中国近代史" />
     <entry>
-        <id>http://example.com/%E7%A7%91%E7%9B%AE%E4%B8%80%E7%AC%94%E8%AE%B0/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/%E7%A7%91%E7%9B%AE%E4%B8%80%E7%AC%94%E8%AE%B0/</id>
         <title>科目一笔记</title>
-        <link rel="alternate" href="http://example.com/%E7%A7%91%E7%9B%AE%E4%B8%80%E7%AC%94%E8%AE%B0/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/%E7%A7%91%E7%9B%AE%E4%B8%80%E7%AC%94%E8%AE%B0/"/>
         <content type="html">&lt;h2 id=&#34;科目一笔记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#科目一笔记&#34;&gt;#&lt;/a&gt; 科目一笔记&lt;/h2&gt;
 &lt;h3 id=&#34;1法律-法规及道路交通信号&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1法律-法规及道路交通信号&#34;&gt;#&lt;/a&gt; 1. 法律、法规及道路交通信号&lt;/h3&gt;
 &lt;h4 id=&#34;11-许可-种类-有效期和申请条件&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#11-许可-种类-有效期和申请条件&#34;&gt;#&lt;/a&gt; 1.1、许可、种类、有效期和申请条件&lt;/h4&gt;
@@ -367,9 +367,9 @@
         <updated>2021-07-14T05:22:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/%E9%A9%BE%E7%85%A7/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/%E9%A9%BE%E7%85%A7/</id>
         <title>驾照</title>
-        <link rel="alternate" href="http://example.com/%E9%A9%BE%E7%85%A7/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/%E9%A9%BE%E7%85%A7/"/>
         <content type="html">&lt;h2 id=&#34;报考原因&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#报考原因&#34;&gt;#&lt;/a&gt; 报考原因&lt;/h2&gt;
 &lt;p&gt;报考主要是宿舍的老伙计们都准备报了，家里也觉得有驾照之后再买个车就可以回老家去炫耀，所以我就在这个暑假报了 C1。&lt;/p&gt;
 &lt;h2 id=&#34;文章内容&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#文章内容&#34;&gt;#&lt;/a&gt; 文章内容&lt;/h2&gt;

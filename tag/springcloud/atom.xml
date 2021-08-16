@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://xinyao_idiot.gitee.io/zxy</id>
     <title>失心耀的博客 • Posts by &#34;springcloud&#34; tag</title>
-    <link href="http://example.com" />
+    <link href="https://xinyao_idiot.gitee.io/zxy" />
     <updated>2021-06-29T01:10:00.000Z</updated>
     <category term="ElasticSearch" />
     <category term="Hexo" />
@@ -20,9 +20,9 @@
     <category term="Redis" />
     <category term="中国近代史" />
     <entry>
-        <id>http://example.com/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/</id>
         <title>SpringCloud（尚硅谷）</title>
-        <link rel="alternate" href="http://example.com/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/"/>
         <content type="html">&lt;h1 id=&#34;springcloud&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#springcloud&#34;&gt;#&lt;/a&gt; SpringCloud&lt;/h1&gt;
 &lt;h3 id=&#34;一-微服务架构理论&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-微服务架构理论&#34;&gt;#&lt;/a&gt; 一、微服务架构理论&lt;/h3&gt;
 &lt;h4 id=&#34;1-什么是微服务&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-什么是微服务&#34;&gt;#&lt;/a&gt; 1. 什么是微服务&lt;/h4&gt;
@@ -111,9 +111,9 @@
         <updated>2021-06-29T01:10:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</id>
         <title>SpringCloud笔记心得</title>
-        <link rel="alternate" href="http://example.com/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/"/>
         <content type="html">&lt;h1 id=&#34;springcloud笔记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#springcloud笔记&#34;&gt;#&lt;/a&gt; SpringCloud 笔记&lt;/h1&gt;
 &lt;h2 id=&#34;1-前言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-前言&#34;&gt;#&lt;/a&gt; 1、前言&lt;/h2&gt;
 &lt;h3 id=&#34;11-前提需要&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#11-前提需要&#34;&gt;#&lt;/a&gt; 1.1、前提需要&lt;/h3&gt;

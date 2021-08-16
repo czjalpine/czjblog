@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>失心耀的博客 • Posts by &#34;安装教程&#34; category</title>
-        <link>http://example.com</link>
+        <link>https://xinyao_idiot.gitee.io/zxy</link>
         <description></description>
         <language>zh-CN</language>
         <pubDate>Mon, 01 Mar 2021 08:40:00 +0800</pubDate>
@@ -23,9 +23,9 @@
         <category>Redis</category>
         <category>中国近代史</category>
         <item>
-            <guid isPermalink="true">http://example.com/Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</guid>
+            <guid isPermalink="true">https://xinyao_idiot.gitee.io/zxy/Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</guid>
             <title>Hexo安装过程</title>
-            <link>http://example.com/Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</link>
+            <link>https://xinyao_idiot.gitee.io/zxy/Hexo%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</link>
             <category>Hexo</category>
             <pubDate>Mon, 01 Mar 2021 08:40:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;搭建hexo&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#搭建hexo&#34;&gt;#&lt;/a&gt; 搭建 Hexo&lt;/h2&gt;
@@ -110,9 +110,9 @@ hexo d	   推送到远端
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/Java%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</guid>
+            <guid isPermalink="true">https://xinyao_idiot.gitee.io/zxy/Java%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</guid>
             <title>Java安装过程</title>
-            <link>http://example.com/Java%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</link>
+            <link>https://xinyao_idiot.gitee.io/zxy/Java%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</link>
             <category>Java</category>
             <pubDate>Mon, 01 Mar 2021 08:40:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;java安装过程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#java安装过程&#34;&gt;#&lt;/a&gt; Java 安装过程&lt;/h2&gt;

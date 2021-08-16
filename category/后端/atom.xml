@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://xinyao_idiot.gitee.io/zxy</id>
     <title>失心耀的博客 • Posts by &#34;后端&#34; category</title>
-    <link href="http://example.com" />
+    <link href="https://xinyao_idiot.gitee.io/zxy" />
     <updated>2021-06-29T01:10:00.000Z</updated>
     <category term="ElasticSearch" />
     <category term="Hexo" />
@@ -20,9 +20,9 @@
     <category term="Redis" />
     <category term="中国近代史" />
     <entry>
-        <id>http://example.com/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/</id>
         <title>SpringCloud（尚硅谷）</title>
-        <link rel="alternate" href="http://example.com/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/SpringCloud%EF%BC%88%E5%B0%9A%E7%A1%85%E8%B0%B7%EF%BC%89/"/>
         <content type="html">&lt;h1 id=&#34;springcloud&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#springcloud&#34;&gt;#&lt;/a&gt; SpringCloud&lt;/h1&gt;
 &lt;h3 id=&#34;一-微服务架构理论&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-微服务架构理论&#34;&gt;#&lt;/a&gt; 一、微服务架构理论&lt;/h3&gt;
 &lt;h4 id=&#34;1-什么是微服务&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-什么是微服务&#34;&gt;#&lt;/a&gt; 1. 什么是微服务&lt;/h4&gt;
@@ -111,9 +111,9 @@
         <updated>2021-06-29T01:10:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</id>
         <title>SpringCloud笔记心得</title>
-        <link rel="alternate" href="http://example.com/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/SpringCloud%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/"/>
         <content type="html">&lt;h1 id=&#34;springcloud笔记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#springcloud笔记&#34;&gt;#&lt;/a&gt; SpringCloud 笔记&lt;/h1&gt;
 &lt;h2 id=&#34;1-前言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-前言&#34;&gt;#&lt;/a&gt; 1、前言&lt;/h2&gt;
 &lt;h3 id=&#34;11-前提需要&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#11-前提需要&#34;&gt;#&lt;/a&gt; 1.1、前提需要&lt;/h3&gt;
@@ -1447,17 +1447,17 @@ SELECT * FROM dept;
         <updated>2021-06-23T03:10:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/ElasticSearch%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/ElasticSearch%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/</id>
         <title>ElasticSearch初步学习</title>
-        <link rel="alternate" href="http://example.com/ElasticSearch%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/ElasticSearch%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/"/>
         <content type="html"></content>
         <category term="ElasticSearch" />
         <updated>2021-06-22T11:10:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/SpringBoot%E7%AC%94%E8%AE%B0%E5%BF%83%E5%BE%97/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/SpringBoot%E7%AC%94%E8%AE%B0%E5%BF%83%E5%BE%97/</id>
         <title>springboot笔记心得</title>
-        <link rel="alternate" href="http://example.com/SpringBoot%E7%AC%94%E8%AE%B0%E5%BF%83%E5%BE%97/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/SpringBoot%E7%AC%94%E8%AE%B0%E5%BF%83%E5%BE%97/"/>
         <content type="html">&lt;h2 id=&#34;springboot笔记心得&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#springboot笔记心得&#34;&gt;#&lt;/a&gt; springboot 笔记心得&lt;/h2&gt;
 &lt;h3 id=&#34;一-初始配置&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-初始配置&#34;&gt;#&lt;/a&gt; 一、初始配置&lt;/h3&gt;
 &lt;p&gt;欲要攻其事，必先利其器，学习 Springboot 则需要先配置好相关的配置。&lt;/p&gt;
@@ -2539,9 +2539,9 @@ public class MyMvcConfig implements WebMvcConfigurer &amp;#123;
         <updated>2021-06-22T11:10:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/redis/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/redis/</id>
         <title>Redis初步学习</title>
-        <link rel="alternate" href="http://example.com/redis/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/redis/"/>
         <content type="html">&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Bilibili 搜索关注：狂神说（所有课程免费） 公众号：狂神说（日更文章）&lt;/p&gt;
@@ -3446,9 +3446,9 @@ public class MyMvcConfig implements WebMvcConfigurer &amp;#123;
         <updated>2021-05-13T08:30:03.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</id>
         <title>RabbitMQ 高级特性</title>
-        <link rel="alternate" href="http://example.com/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/"/>
         <content type="html">&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;h1 id=&#34;1-rabbitmq高级-过期时间ttl&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-rabbitmq高级-过期时间ttl&#34;&gt;#&lt;/a&gt; 1. RabbitMQ 高级 - 过期时间 TTL&lt;/h1&gt;
 &lt;h2 id=&#34;11-概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#11-概述&#34;&gt;#&lt;/a&gt; 1.1 概述&lt;/h2&gt;
@@ -3757,9 +3757,9 @@ public class MyMvcConfig implements WebMvcConfigurer &amp;#123;
         <updated>2021-05-10T03:38:04.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/</id>
         <title>RabbitMQ 入门及使用</title>
-        <link rel="alternate" href="http://example.com/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/RabbitMQ-%E5%85%A5%E9%97%A8%E5%8F%8A%E4%BD%BF%E7%94%A8/"/>
         <content type="html">&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;h1 id=&#34;1-rabbitmq入门及安装&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-rabbitmq入门及安装&#34;&gt;#&lt;/a&gt; 1. RabbitMQ 入门及安装&lt;/h1&gt;
 &lt;h2 id=&#34;11-概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#11-概述&#34;&gt;#&lt;/a&gt; 1.1 概述&lt;/h2&gt;
@@ -4164,9 +4164,9 @@ RabbitMQ 是采用 Erlang 语言开发的，所以系统环境必须提供 Erlan
         <updated>2021-05-10T00:39:18.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</id>
         <title>Git协同与提交规范</title>
-        <link rel="alternate" href="http://example.com/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/"/>
         <content type="html">&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;h2 id=&#34;1前言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1前言&#34;&gt;#&lt;/a&gt; 1. 前言&lt;/h2&gt;
 &lt;p&gt;在现代化的软件开发中，尤其是在企业中的团队协同开发流程与代码管理方面，git 都充当着不可或缺的角色。本章中将会讲述如何使用 git 来进行一些基本的版本控制操作与团队协同中的 git 使用流程管理与提交规范。&lt;/p&gt;
@@ -4458,9 +4458,9 @@ Body 部分的格式是固定的，必须写成 This reverts commit &lt;hash&gt;
         <updated>2021-04-01T00:40:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/Springboot%E7%BB%83%E4%B9%A0/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/Springboot%E7%BB%83%E4%B9%A0/</id>
         <title>Springboot 后端练习任务</title>
-        <link rel="alternate" href="http://example.com/Springboot%E7%BB%83%E4%B9%A0/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/Springboot%E7%BB%83%E4%B9%A0/"/>
         <content type="html">&lt;h2 id=&#34;后端练习任务&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#后端练习任务&#34;&gt;#&lt;/a&gt; 后端练习任务&lt;/h2&gt;
 &lt;h3 id=&#34;day01&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#day01&#34;&gt;#&lt;/a&gt; day01：&lt;/h3&gt;
 &lt;h4 id=&#34;1创建springboot工程熟悉每个目录结构的作用&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1创建springboot工程熟悉每个目录结构的作用&#34;&gt;#&lt;/a&gt; 1. 创建 Springboot 工程，熟悉每个目录结构的作用&lt;/h4&gt;

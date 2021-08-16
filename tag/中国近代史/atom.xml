@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://xinyao_idiot.gitee.io/zxy</id>
     <title>失心耀的博客 • Posts by &#34;中国近代史&#34; tag</title>
-    <link href="http://example.com" />
+    <link href="https://xinyao_idiot.gitee.io/zxy" />
     <updated>2021-08-09T04:37:00.000Z</updated>
     <category term="ElasticSearch" />
     <category term="Hexo" />
@@ -20,9 +20,9 @@
     <category term="Redis" />
     <category term="中国近代史" />
     <entry>
-        <id>http://example.com/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/</id>
         <title>中国近代史</title>
-        <link rel="alternate" href="http://example.com/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/"/>
         <content type="html">&lt;h1 id=&#34;中国近代史&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#中国近代史&#34;&gt;#&lt;/a&gt; 中国近代史&lt;/h1&gt;
 &lt;p&gt;&lt;img data-src=&#34;%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E8%AF%BE%E7%A8%8B%E7%AB%A0%E8%8A%82.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/%E8%AF%BE%E7%A8%8B%E7%AB%A0%E8%8A%82.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;第一章-反对外国侵略的斗争&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一章-反对外国侵略的斗争&#34;&gt;#&lt;/a&gt; 第一章 反对外国侵略的斗争&lt;/h2&gt;

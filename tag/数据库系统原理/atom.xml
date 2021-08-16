@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://xinyao_idiot.gitee.io/zxy</id>
     <title>失心耀的博客 • Posts by &#34;数据库系统原理&#34; tag</title>
-    <link href="http://example.com" />
+    <link href="https://xinyao_idiot.gitee.io/zxy" />
     <updated>2021-08-09T06:14:00.000Z</updated>
     <category term="ElasticSearch" />
     <category term="Hexo" />
@@ -20,9 +20,9 @@
     <category term="Redis" />
     <category term="中国近代史" />
     <entry>
-        <id>http://example.com/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/</id>
+        <id>https://xinyao_idiot.gitee.io/zxy/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/</id>
         <title>数据库系统原理</title>
-        <link rel="alternate" href="http://example.com/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/"/>
+        <link rel="alternate" href="https://xinyao_idiot.gitee.io/zxy/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/"/>
         <content type="html">&lt;h1 id=&#34;数据库系统原理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#数据库系统原理&#34;&gt;#&lt;/a&gt; 数据库系统原理&lt;/h1&gt;
 &lt;h2 id=&#34;第一章-数据库系统概念&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一章-数据库系统概念&#34;&gt;#&lt;/a&gt; 第一章、数据库系统概念&lt;/h2&gt;
 &lt;h3 id=&#34;第一节数据库基本概念&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一节数据库基本概念&#34;&gt;#&lt;/a&gt; 第一节：数据库基本概念&lt;/h3&gt;
