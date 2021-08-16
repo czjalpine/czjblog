@@ -231,7 +231,7 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;概念模型：用来描述现实世界的事物，与具体的计算机系统无关&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/E-R%E5%9B%BE.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/E-R%E5%9B%BE.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/E-R%E5%9B%BE.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/E-R%E5%9B%BE.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -348,7 +348,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E7%A0%81.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E7%A0%81.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E7%A0%81.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E7%A0%81.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;主属性（Primary Attribute）和非主属性（Nonprimary Attribute）&lt;/strong&gt;&lt;/p&gt;
@@ -509,7 +509,7 @@
 &lt;li&gt;计算机辅助设计法&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h4 id=&#34;五数据库设计的过程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#五数据库设计的过程&#34;&gt;#&lt;/a&gt; 五。数据库设计的过程&lt;/h4&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E8%BF%87%E7%A8%8B.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E8%BF%87%E7%A8%8B.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E8%BF%87%E7%A8%8B.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E8%BF%87%E7%A8%8B.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;第二节数据库设计的基本步骤&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第二节数据库设计的基本步骤&#34;&gt;#&lt;/a&gt; 第二节：数据库设计的基本步骤&lt;/h3&gt;
 &lt;h4 id=&#34;一需求分析&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一需求分析&#34;&gt;#&lt;/a&gt; 一。需求分析&lt;/h4&gt;
@@ -556,7 +556,7 @@
 &lt;h4 id=&#34;二概念结构设计&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二概念结构设计&#34;&gt;#&lt;/a&gt; 二。概念结构设计&lt;/h4&gt;
 &lt;p&gt;​		在需求分析的基础按照特定的方法设计满足应用需求的用户信息结构，该信息结构通常称为概念模型。其中 E-R 图为概念模型的描述工具。&lt;/p&gt;
 &lt;h4 id=&#34;三逻辑结构设计&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三逻辑结构设计&#34;&gt;#&lt;/a&gt; 三。逻辑结构设计&lt;/h4&gt;
-&lt;p&gt;&lt;img data-src=&#34;%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1.png&#34; alt=&#34;&#34;&gt;&lt;img data-src=&#34;/zxy/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1.png&#34; class=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;四物理设计&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#四物理设计&#34;&gt;#&lt;/a&gt; 四。物理设计&lt;/h4&gt;
 &lt;p&gt;​		指对于一个给定的数据逻辑结构，研究并构造物理结构的过程。主要任务时确定数据库在存储设别上的存储结构及存取方法。&lt;/p&gt;
 &lt;h4 id=&#34;五数据库实施&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#五数据库实施&#34;&gt;#&lt;/a&gt; 五。数据库实施&lt;/h4&gt;
