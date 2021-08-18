@@ -15,10 +15,10 @@
     <category term="数据库系统原理" />
     <category term="linux" />
     <category term="RabbitMQ" />
-    <category term="操作系统概论" />
     <category term="SpringBoot" />
     <category term="Redis" />
     <category term="中国近代史" />
+    <category term="操作系统概论" />
     <entry>
         <id>https://xinyao_idiot.gitee.io/zxy/Git%E5%8D%8F%E5%90%8C%E4%B8%8E%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</id>
         <title>Git协同与提交规范</title>
